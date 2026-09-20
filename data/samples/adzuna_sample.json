@@ -1,0 +1,573 @@
+{
+    "count": 3980,
+    "mean": 1235641.71,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+        {
+            "title": "Data Analyst/ Senior Data Analyst",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVBka253ZTE4Ukd2STQwbU9UNms3QSIsImkiOiI1ODkwODk3Mzc5In0.E0KeOlCugeGXUavEbXZy3sEAOCmPvMgo67vOImwX6YE",
+            "description": "Hiring: Data Analyst/ Senior Data Analyst We are looking for a Data Analyst/ Senior Data Analyst who can independently drive analytical projects, solve complex business problems, and communicate data-driven insights to senior stakeholders.  Key Responsibilities Analyze complex datasets, identify trends, and provide actionable insights. Develop complex, optimized, and reusable SQL & Python (Pandas) solutions. Build and maintain dashboards, reports, and analytical models . Conduct root-cause anal…",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "salary_is_predicted": "0",
+            "redirect_url": "https://www.adzuna.in/land/ad/5890897379?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=50E6FDA1D4A9055A1FBCEBD6FEE1CD2F23FEDE6F",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Indium"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2026-09-19T23:27:17Z",
+            "id": "5890897379"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5876869978?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=072D1CE1CC72D0FC85E89D98E0B5C45236CC78D8",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            },
+            "salary_is_predicted": "0",
+            "description": "Role: Data Analyst Job Type: Full-time (Hybrid) Job Location: Bangalore Experience: 6 years Notice Period: Immediate to 30 Days Job Description: Must have strong experience in the Manufacturing domain. Experience working with SAP and Non-SAP data. Strong knowledge of SQL and Python/R. Experience with Azure Data Factory (ADF) and Databricks. Strong understanding of Data Modelling, ETL, Data Mapping, and Data Quality. Experience with Power BI, Tableau, or Looker. Analyze large and complex dataset…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVBka253ZTE4Ukd2STQwbU9UNms3QSIsImkiOiI1ODc2ODY5OTc4In0.Ut3bO9Kz2H2WOAffBD-5Gutqz0OhVTX9b_bf7T1lSHg",
+            "title": "Data Analyst",
+            "id": "5876869978",
+            "contract_time": "full_time",
+            "created": "2026-09-09T14:44:26Z",
+            "company": {
+                "display_name": "Ignisov Consulting Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Company Description Edwagon is a growing organization focused on using data-driven insights to improve decision-making and business performance. The company values analytical thinking, collaboration, and continuous learning, and encourages team members to explore innovative approaches to solving complex problems. Edwagon offers opportunities to work with diverse datasets, modern tools, and cross-functional teams. Professionals joining Edwagon can expect a supportive environment that recognizes …",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ]
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5867038166?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=005005A5CE08BEDFAA80C211793EB9110F5A4178",
+            "title": "Data Analyst",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NzAzODE2NiIsInMiOiI5UGRrbndlMThSR3ZJNDBtT1Q2azdBIn0.AXV1gHgO4GF9cUmSLImz2kvmU0heAx8Umvwyy11Z8hs",
+            "contract_time": "full_time",
+            "id": "5867038166",
+            "company": {
+                "display_name": "Edwagon",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2026-09-02T16:44:13Z"
+        },
+        {
+            "title": "Data Analyst",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVBka253ZTE4Ukd2STQwbU9UNms3QSIsImkiOiI1ODc0MTM0NTc2In0._zlBDGWfw6Gb5S6_0cB_Ej3w1zBuCFpp3M7rQfvbumw",
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Karnataka, India"
+            },
+            "salary_is_predicted": "0",
+            "description": "We are looking for a Data Analyst who can collect, analyze, interpret, and visualize business and financial data to support strategic decision-making. The ideal candidate should have strong analytical skills, attention to detail, and the ability to convert complex data into meaningful business insights. Key Responsibilities Collect, clean, validate, and analyze data from multiple sources. Prepare regular and ad-hoc business performance reports. Develop dashboards and data visualizations for man…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "latitude": 14.325172,
+            "redirect_url": "https://www.adzuna.in/land/ad/5874134576?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=C577AE65604914B37179B4F8E139D9AF02F18B8E",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "KRFS"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2026-09-07T18:37:51Z",
+            "id": "5874134576",
+            "longitude": 76.227524
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5868794225?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=D8BC56B9CB11BA0D9B5FFCBCF89C96BD2DFA3D7D",
+            "description": "About the Role : We are looking for a highly analytical and detail-oriented Data Analyst to join our Business Development Team. The ideal candidate should have strong skills in data handling, statistical analysis, and visualization tools, along with the ability to translate data into meaningful insights. Key Responsibilities : Data Analysis : - Collect, clean, and validate large datasets from multiple sources - Analyze data to identify trends, patterns, and actionable insights - Develop and mai…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2ODc5NDIyNSIsInMiOiI5UGRrbndlMThSR3ZJNDBtT1Q2azdBIn0.0jFhGnD0lKA9H2m1_9A28KaJVrndsOeuxYvBPFntPwo",
+            "title": "Data Analyst",
+            "id": "5868794225",
+            "created": "2026-09-03T16:50:23Z",
+            "company": {
+                "display_name": "Indofast Energy",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "Nians",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2026-09-01T16:23:20Z",
+            "id": "5864443196",
+            "title": "Data Analyst",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NDQ0MzE5NiIsInMiOiI5UGRrbndlMThSR3ZJNDBtT1Q2azdBIn0.VGVrxyiMYRJRq37CA6pXG5Tfoi2sWV7Gqos9mqD1JBw",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "description": "About the Role We are looking for a detail-oriented and analytical Data Analyst to join our remote team. The ideal candidate will collect, analyze, and interpret data to uncover actionable insights that support business decisions, improve marketing performance, and optimize operational efficiency. You will work closely with cross-functional teams to transform complex data into meaningful reports and recommendations. The Data Analyst will be responsible for collecting, cleaning, and analyzing da…",
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5864443196?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=10338B8934051D3701B8DAAFEA2D92D893FF8C64"
+        },
+        {
+            "created": "2026-09-20T17:32:40Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HRM Counsel"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "id": "5891690362",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MTY5MDM2MiIsInMiOiI5UGRrbndlMThSR3ZJNDBtT1Q2azdBIn0.xiG8lEgfGPlbUQKK6ypcsjhxXVA5fSzm7t8JH5QagZ4",
+            "title": "Data Analyst",
+            "redirect_url": "https://www.adzuna.in/land/ad/5891690362?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=C249DD486EC96BAA511B873828B18609EF51E176",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "description": "We are looking to hire a data analyst to join our data team. You will take responsibility for managing our master data set, developing reports, and troubleshooting data issues. To do well in this role you need a very fine eye for detail, experience as a data analyst, and a deep understanding of the popular data analysis tools and databases. Responsibilities: Managing master data, including creation, updates, and deletion. Managing users and user roles. Provide quality assurance of imported data…"
+        },
+        {
+            "created": "2026-09-09T10:19:37Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Cornerstone OnDemand"
+            },
+            "longitude": 73.84735,
+            "contract_time": "full_time",
+            "id": "5876645051",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVBka253ZTE4Ukd2STQwbU9UNms3QSIsImkiOiI1ODc2NjQ1MDUxIn0.gZrLE3ZxOMxmlGuAitmhKGLkTDSG5UVuszglLraNNXc",
+            "title": "Data Analyst",
+            "latitude": 18.5062,
+            "redirect_url": "https://www.adzuna.in/land/ad/5876645051?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=631925FDE58F85DB10B5F3F2B9DA1B57320F62F0",
+            "description": "This job is with Cornerstone OnDemand, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Data Analyst - Enterprise Data Management Location: Hyderabad, India About the Role: We are seeking an experienced Data Analyst to join our Enterprise Data Management team , with a core focus on Data Quality, Data Governance, and Master Data Management (MDM). In this role, you will be responsible for an…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            }
+        },
+        {
+            "longitude": 80.24963,
+            "id": "5864432449",
+            "created": "2026-09-01T16:21:54Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "display_name": "EXL",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "latitude": 13.06041,
+            "redirect_url": "https://www.adzuna.in/land/ad/5864432449?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=0464D1D46052005EBAED171BB113CF1C11F71B8A",
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "description": "Bachelor’s degree with minimum 6 years’ experience as Data Analyst ● Highly numerate and passionate about data and analytics ● Excellent analytical and problem-solving skills, with knowledge of SQL & Data Visualization best practices. ● Self-starter with ability to work on own initiative and strong attention to detail, completing tasks to a very high degree of accuracy. ● Strong communication and presentation skills, able to evidence proven ability engage with senior stakeholders and influence …",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NDQzMjQ0OSIsInMiOiI5UGRrbndlMThSR3ZJNDBtT1Q2azdBIn0.JC_oi6STHZDhu3mrv46Gt7oyHwDSz7boH1yB_jX_ylQ",
+            "title": "Data Analyst"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5864426421?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=D1EB104E72A21E3DF692D8A7FE49CD9CD823CCFA",
+            "latitude": 17.40275,
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Job Title- Data Analyst Location- Bangalore / Hyderabad Mode- Onsite Job Type: Full-Time Must have Skill: Python scripts Domain Insurance Required Skills & Experience • Good hands-on experience to create Python scripts for data frames and data analysis • Proven ability to analyze large datasets and identify data quality or consistency issues • Experience working directly with business users and translating business questions into requirements • Excellent communication skills (verbal and written…",
+            "location": {
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Hyderabad, Telangana"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NDQyNjQyMSIsInMiOiI5UGRrbndlMThSR3ZJNDBtT1Q2azdBIn0.Gfj4fCgbzD-schUGM6KuZP2F_iiMXps4gUoVILML1UY",
+            "title": "Data Analyst",
+            "longitude": 78.50806,
+            "contract_time": "full_time",
+            "id": "5864426421",
+            "created": "2026-09-01T16:20:48Z",
+            "company": {
+                "display_name": "WhiteLotus Talent Partners",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "company": {
+                "display_name": "HT Digital Streams",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2026-09-18T17:31:52Z",
+            "id": "5889222919",
+            "title": "Data Analyst",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVBka253ZTE4Ukd2STQwbU9UNms3QSIsImkiOiI1ODg5MjIyOTE5In0.pDLdA0p96O9q9HsyHEbXm44sC_D3dNmcMpeTERsrfqQ",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "label": "Accounting & Finance Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Job Description : Data Analyst – Fintech About Mint Money Mint Money (by HT Media Group) is a mobile-first personal finance marketplace. We empower millions of users to track credit health, discover personalized loans, and access credit cards seamlessly through partnerships with leading RBI-registered NBFCs and banks. Role Overview As a Data Analyst , you will optimize user acquisition, credit matching, and disbursal funnels. Operating at the intersection of product, marketing, and risk, your i…",
+            "redirect_url": "https://www.adzuna.in/land/ad/5889222919?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=03EF083DA912BE5EBF0E4FE0CF65CCAF6FDA4830"
+        },
+        {
+            "created": "2026-09-02T16:42:41Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Daice Labs"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "contract_time": "full_time",
+            "id": "5867036037",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVBka253ZTE4Ukd2STQwbU9UNms3QSIsImkiOiI1ODY3MDM2MDM3In0.W6HRFmwIfhATlHM6gJpLkXe-UymYEcKUqngAcxZDwCM",
+            "title": "Data Analyst",
+            "redirect_url": "https://www.adzuna.in/land/ad/5867036037?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=3373786259D5227E399A77A714E583AB630777FD",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Job Title: Data Analyst Location: India (Remote) Employment Type: Full-time About Daice Labs Daice Labs is an AI research and product company founded by MIT CSAIL scientists, headquartered in Brookline, MA. The company develops hybrid AI systems that integrate neurosymbolic methods with machine learning to build auditable, adaptive, and governable AI. Daice Labs operates two integrated divisions: a research lab focused on hybrid AI architectures, and Cofabric, a governed AI execution platform f…",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVBka253ZTE4Ukd2STQwbU9UNms3QSIsImkiOiI1ODcxOTkxODk2In0.wEU2LkbdmYYXwOnu0sVxX4sXnIkDfFGQ_IzHSiCsOe0",
+            "title": "Data Analyst",
+            "latitude": 17.40275,
+            "redirect_url": "https://www.adzuna.in/land/ad/5871991896?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=4E224CAAB3213F1718D14EA4D9357EF9FBB8D759",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "description": "About Position: We are seeking a highly skilled Data Engineer cum Data Analyst with strong expertise in Hadoop Ecosystem, Google Cloud Platform (GCP), Data Analytics, and Project Management. The ideal candidate will possess hands-on experience in designing scalable data platforms, building data pipelines, performing advanced analytics, and leading end-to-end data initiatives. This role requires a blend of technical expertise, business analysis, stakeholder management, and project delivery capab…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "created": "2026-09-05T18:30:21Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Persistent Systems"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 78.50806,
+            "id": "5871991896",
+            "contract_time": "full_time"
+        },
+        {
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "We are seeking a highly skilled and detail-oriented Senior Data Analyst / Data Governance Specialist with 7 years of experience to drive data-driven decision-making and ensure robust data governance practices. The ideal candidate will have strong expertise in data analysis, SQL, data modeling, and governance frameworks , along with the ability to translate business requirements into actionable insights. Key Responsibilities Data Analysis & Insights Analyze large volumes of structured and unstru…",
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ],
+                "display_name": "Hyderabad, Telangana"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5883562726?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=5743FEA422ADE6DE4EE297850815AC6CE580C190",
+            "latitude": 17.40275,
+            "title": "Data Analyst",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVBka253ZTE4Ukd2STQwbU9UNms3QSIsImkiOiI1ODgzNTYyNzI2In0.cIE8Uv4ev-_gz48v1Cx-WUyS4vPMh1H13vx0-7rQ7_o",
+            "id": "5883562726",
+            "longitude": 78.50806,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "HTC Global Services"
+            },
+            "created": "2026-09-14T17:17:47Z"
+        },
+        {
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "category": {
+                "label": "IT Jobs",
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Seeking a Data Analyst / Data Scientist who can take full ownership of analytics across the business—creating a single source of truth, enabling smarter decision-making, and helping teams move faster with confidence. In this role, you’ll work closely with the founder, leadership, product, and marketing teams to ensure everyone has a clear, trusted view of how the business is performing across acquisition, product usage, retention, and revenue. This is a hands-on, highly collaborative role for s…",
+            "redirect_url": "https://www.adzuna.in/land/ad/5891690374?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=DDDA399F960A16F2A79A4AEA69E3C1C0F6F1C7CF",
+            "title": "Data Analyst",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MTY5MDM3NCIsInMiOiI5UGRrbndlMThSR3ZJNDBtT1Q2azdBIn0.Zt9vYPIlOhogRI94xs3dxb8m7D1lOl_2r-YKpsEUcZY",
+            "id": "5891690374",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Zenius"
+            },
+            "created": "2026-09-20T17:32:41Z"
+        },
+        {
+            "id": "5890611685",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "NexionPro Services"
+            },
+            "created": "2026-09-19T17:31:49Z",
+            "description": "Data Analyst: Experience: 7 - 11 years (but need expert Engineers): · Strong hands-on experience with Databricks for data analysis, exploration, validation, and troubleshooting. · Advanced SQL querying and scripting skills, with the ability to work with complex and large-scale datasets. · Strong experience in data analysis, data profiling, reconciliation, and Data Quality (DQ) validation. · Ability to explore large datasets and translate analysis into clear findings, recommendations, and action…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5890611685?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=412B1A4E698589EA4F494D2E5208818AECFD1F47",
+            "title": "Data Analyst",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MDYxMTY4NSIsInMiOiI5UGRrbndlMThSR3ZJNDBtT1Q2azdBIn0.U4qcU9S6xep86O4OdOSTSGS3_ExsDEUNEpvFgNbC5U8"
+        },
+        {
+            "created": "2026-09-02T16:42:43Z",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Pharmanovia"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 72.84415,
+            "id": "5867036109",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVBka253ZTE4Ukd2STQwbU9UNms3QSIsImkiOiI1ODY3MDM2MTA5In0.EJr5pLsW2nkz99cO6vkn47ZmKvwNBvOwA1aQcRClHg0",
+            "title": "Data Analyst",
+            "redirect_url": "https://www.adzuna.in/land/ad/5867036109?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=3137DF9B503952DFDC32B05C57551147401959BD",
+            "latitude": 19.00821,
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra"
+            },
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Pharmanovia is a dynamic, fast-growing international pharmaceutical company with a portfolio of over 20 brands across more than 160 markets. Our mission is to improve patient health globally through the revitalisation of niche, tried-and-trusted medicines. Our core behaviours are: We act decisively but we never compromise on quality. We keep our promises and do as we say. We value our heritage and foster an entrepreneurial spirit. We reinvest in our future – in our products, our brands and our …"
+        },
+        {
+            "id": "5889675450",
+            "company": {
+                "display_name": "Credit Saison India",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2026-09-18T23:23:08Z",
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Bangalore, Karnataka",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "Data Analyst About Credit Saison India Established in 2019, Credit Saison India (CS India) is one of the country’s fastest-growing Non-Bank Financial Company (NBFC) lenders, with verticals in wholesale, direct lending and tech-enabled partnerships with Non-Bank Financial Companies (NBFCs) and fintech's with a vision to unlock India’s financial potential. Combining our tech-enabled model with underwriting capability has allowed us to lending at scale to meet India’s huge gap for credit, especial…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "redirect_url": "https://www.adzuna.in/land/ad/5889675450?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=6D13B19E5EE70AAAFCF05B9205126299083FD3DC",
+            "title": "Data Analyst",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVBka253ZTE4Ukd2STQwbU9UNms3QSIsImkiOiI1ODg5Njc1NDUwIn0.0nfA6mAOq-xA4UMEnift9FS7SfhyKTmQriZkehoxhCQ"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NDQzMTg0MyIsInMiOiI5UGRrbndlMThSR3ZJNDBtT1Q2azdBIn0.5tB-9PIJvoe_NFWWOeE7h_5kR9QQj2Lso6HLeg6cPGU",
+            "title": "Data Analyst",
+            "redirect_url": "https://www.adzuna.in/land/ad/5864431843?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=9079E47BDD32D4548142621A352516C249E4F2F6",
+            "latitude": 11.017171,
+            "description": "About Arcana Arcana is a portfolio intelligence platform used by hedge funds and asset managers to analyze performance and risk. We’re rethinking the tools institutional investors rely on—and we’re hiring analysts who want to help drive that transformation. Role Overview We are looking for a Data Analyst to work with large-scale financial datasets, ensure high data quality, and deliver actionable insights through dashboards and reports. The role focuses on building and maintaining robust data q…",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Coimbatore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Coimbatore, Tamil Nadu"
+            },
+            "created": "2026-09-01T16:21:48Z",
+            "company": {
+                "display_name": "Arcana",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "longitude": 77.100203,
+            "id": "5864431843"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/land/ad/5880953033?se=9Pdknwe18RGvI40mOT6k7A&utm_medium=api&utm_source=d2e00ebc&v=FC6D53927597CEACE22EEDAE514F5937F0134DC8",
+            "description": "About Position: We are seeking an experienced Data Analyst Healthcare (Azure Databricks) with 8 years of experience in healthcare data analytics, data profiling, source-to-target mapping, and modern cloud-based data platforms. The ideal candidate will possess strong expertise in healthcare claims data, advanced SQL development, Azure Databricks, and business data analysis. This role will act as a critical bridge between business stakeholders, data engineering teams, analytics teams, and AI/ML i…",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOVBka253ZTE4Ukd2STQwbU9UNms3QSIsImkiOiI1ODgwOTUzMDMzIn0.krimmYxGou5kIBRYkdi1RrDhgtVaMkhsefiDzglhsEg",
+            "title": "Data Analyst",
+            "contract_time": "full_time",
+            "id": "5880953033",
+            "created": "2026-09-12T17:20:59Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Persistent Systems"
+            }
+        }
+    ]
+}

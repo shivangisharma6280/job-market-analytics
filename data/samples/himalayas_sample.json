@@ -1,0 +1,892 @@
+{
+    "comments": "21/08/2026: Cursor pagination is now available and is the preferred way to page through the feed. Pass the nextCursor value from each response back as ?cursor=. It is faster than offset and will never return the same job twice. The offset parameter is deprecated and will be removed in a future release. 13/03/2026: The API has been updated to include the companySlug field in the response.",
+    "updatedAt": 1789912307,
+    "offset": 0,
+    "limit": 20,
+    "totalCount": 105458,
+    "nextCursor": "MjAyNi0wOS0yMFQxMzo0NTo0NC40NDA3MzZafDIyNTQ4NjE",
+    "jobs": [
+        {
+            "title": "Ecommerce Product Catalog & Research Analyst",
+            "excerpt": "Job OverviewAt Uvation, we are committed to delivering innovative technology solutions and maintaining a high-quality product marketplace.",
+            "companyName": "uvation",
+            "companySlug": "uvation",
+            "companyLogo": "",
+            "employmentType": "Contractor",
+            "minSalary": null,
+            "maxSalary": null,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Mid-level"
+            ],
+            "currency": null,
+            "locationRestrictions": [
+                "Serbia"
+            ],
+            "timezoneRestrictions": [
+                1
+            ],
+            "categories": [
+                "Ecommerce",
+                "Product-Research",
+                "Catalog-Management",
+                "Product-Management",
+                "E-Commerce-Operations",
+                "E-Commerce-Product-Analyst",
+                "E-Commerce-Product-Research",
+                "E-Commerce-Analyst",
+                "ECommerce-Data-Analyst",
+                "E-Commerce-Catalog-Specialist",
+                "Ecommerce-Product-Specialist",
+                "Product-Research-Analyst",
+                "Product-Research-Specialist",
+                "Catalog-Analyst"
+            ],
+            "parentCategories": [],
+            "description": "<div class=\"description\">\n<h3>Job Overview</h3>\n<p>At Uvation, we are committed to delivering innovative technology solutions and maintaining a high-quality product marketplace. We are looking for a detail-oriented Product Research &amp; Catalog Executive who will be responsible for researching, creating, and maintaining accurate product listings while ensuring alignment with the latest technology trends.</p>\n<h3>Key Responsibilities</h3>\n<ul>\n<li>Conduct in-depth research on newly launched products from official brand websites and trusted sources.</li>\n<li>Create and manage product listings on the Magento platform with complete and accurate details including:<ul>\n<li>Manufacturer (MFG) number</li>\n<li>Pricing</li>\n<li>Technical specifications</li>\n<li>Product descriptions</li>\n<li>High-quality images</li>\n</ul>\n</li>\n<li>Regularly update existing product listings to reflect the latest models, specifications, and pricing changes.</li>\n<li>Perform routine audits of product catalogs to identify and correct discrepancies or missing information.</li>\n<li>Ensure all product data meets quality standards and aligns with marketplace guidelines.</li>\n<li>Work efficiently under tight deadlines while maintaining high accuracy and consistency.</li>\n<li>Leverage AI-powered research tools to gather and validate product information quickly and effectively.</li>\n<li>Monitor competitor websites to stay updated with market trends and product positioning.</li>\n</ul>\n<h3>Required Skills &amp; Qualifications</h3>\n<ul>\n<li>Hands-on experience with <strong>Magento product management</strong> or similar eCommerce platforms.</li>\n<li>Strong research and analytical skills with attention to detail.</li>\n<li>Familiarity with <strong>AI-based research tools</strong> and data extraction techniques.</li>\n<li>Good understanding of <strong>technology products (IT hardware/software, cloud, AI solutions)</strong>.</li>\n<li>Proficiency in <strong>Microsoft Office tools</strong> (Excel, Word, etc.).</li>\n<li>Ability to manage multiple tasks and meet deadlines in a fast-paced environment.</li>\n<li>Strong communication and organizational skills.</li>\n</ul>\n</div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912307,
+            "expiryDate": 1795096306,
+            "applicationLink": "https://himalayas.app/companies/uvation/jobs/ecommerce-product-catalog-research-analyst-7715058416",
+            "guid": "https://himalayas.app/companies/uvation/jobs/ecommerce-product-catalog-research-analyst-7715058416"
+        },
+        {
+            "title": "Commercial Legal Counsel",
+            "excerpt": "Thank you for considering Tailscale.  If this job description resonates with you, please apply.",
+            "companyName": "Tailscale",
+            "companySlug": "tailscale",
+            "companyLogo": "https://cdn-images.himalayas.app/n0vmg9tp78qhg66nn89x0bu43uyh",
+            "employmentType": "Full Time",
+            "minSalary": 250580,
+            "maxSalary": 313560,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Senior"
+            ],
+            "currency": "CAD",
+            "locationRestrictions": [
+                "Canada"
+            ],
+            "timezoneRestrictions": [
+                -8,
+                -7,
+                -6,
+                -5,
+                -4,
+                -3.5
+            ],
+            "categories": [
+                "Commercial-Counsel",
+                "Corporate-Counsel",
+                "Legal-Counsel",
+                "Commercial-Attorney",
+                "Tech-Transactions-Attorney",
+                "Commercial-Legal-Counsel",
+                "Commercial-Law-Counsel",
+                "Commercial-Contracts-Counsel",
+                "Lead-Commercial-Counsel",
+                "Senior-Commercial-Counsel",
+                "Commercial-Transactions-Counsel"
+            ],
+            "parentCategories": [
+                "Legal"
+            ],
+            "description": "<div class=\"content-intro\">\n<p>Thank you for considering <a href=\"https://himalayas.app/companies/tailscale\">Tailscale</a>. If this job description resonates with you, please apply. <em>Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. </em><em>We encourage you to help us break that statistic!</em></p>\n<h3>About <a href=\"https://himalayas.app/companies/tailscale\">Tailscale</a> </h3>\n<p><a href=\"https://himalayas.app/companies/tailscale\">Tailscale</a> is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use <a href=\"https://himalayas.app/companies/tailscale\">Tailscale</a> each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.</p>\n</div><h3>About the Role</h3><p>We are hiring a Commercial Legal Counsel to lead day-to-day commercial legal support as <a href=\"https://himalayas.app/companies/tailscale\">Tailscale</a> continues to grow. You will partner closely with Sales, Partnerships, Finance, Security, Product, and Operations to help the company close business, manage risk, and build contracting practices that scale.</p><p>This role reports to the Head of Legal. The strongest candidate may be an experienced commercial counsel ready for broader ownership, a senior counsel who has led complex transactions and programs, or a commercial legal leader who can shape the function while remaining hands-on.</p><h3>Key Responsibilities</h3><ul>\n<li>Own and negotiate a broad range of commercial agreements, including enterprise customer, vendor, partner, marketplace, technology, data protection, and confidentiality agreements.</li>\n<li>Advise Sales and other go-to-market teams on deal structure, contracting strategy, risk, and escalation paths.</li>\n<li>Translate legal issues into clear options and recommendations that help teams make timely decisions.</li>\n<li>Build and improve templates, playbooks, fallback positions, approval thresholds, intake processes, and self-service resources.</li>\n<li>Partner with Security, Privacy, Product, and Engineering on customer commitments involving data, security, product functionality, integrations, artificial intelligence, and emerging technologies.</li>\n<li>Work with Finance and Revenue Operations on pricing terms, revenue considerations, procurement, insurance, and other commercial matters.</li>\n<li>Support international transactions and coordinate with outside counsel when local or specialized expertise is needed.</li>\n<li>Identify patterns in negotiations and use data to improve cycle time, consistency, and the experience of customers and internal teams.</li>\n<li>Contribute to other legal priorities as the company and legal function evolve.</li>\n</ul><h3>What We Are Looking For</h3><ul>\n<li>A law degree and active membership in at least one applicable bar or equivalent authorization to practice law.</li>\n<li>Meaningful experience advising technology companies on commercial transactions, including in-house experience or equivalent experience working closely with technology clients.</li>\n<li>Experience helping a legal function, contracting program, or business process scale in a startup or high-growth environment.</li>\n<li>Strong judgment and the ability to distinguish material business risk from issues that can be addressed through practical guardrails.</li>\n<li>A record of leading negotiations with sophisticated customers, partners, vendors, or counterparties.</li>\n<li>Clear, concise communication and the ability to build trust across Legal, Sales, Finance, Security, Product, and executive teams.</li>\n<li>Comfort working independently, prioritizing competing demands, and making progress with incomplete information.</li>\n<li>A collaborative approach that creates appropriate ownership and avoids making Legal an unnecessary bottleneck.</li>\n</ul><h3>Nice to Have</h3><ul>\n<li>Commercial work involving developer tools, cloud infrastructure, networking, cybersecurity, software as a service, or open-source products.</li>\n<li>Experience with enterprise sales, product-led growth, channel or technology partnerships, marketplaces, integrations, or application programming interfaces.</li>\n<li>Familiarity with privacy, data protection, security, artificial intelligence, intellectual property, or product counseling issues that arise in technology transactions.</li>\n<li>Experience supporting global customers or coordinating advice across multiple jurisdictions.</li>\n<li>Experience selecting or implementing contract lifecycle management tools, workflow automation, or commercial legal metrics.</li>\n<li>Experience mentoring colleagues or helping define the structure and priorities of a growing commercial legal capability.</li>\n</ul><p>As a company, we strive to maintain fair and equitable compensation practices within our team across all roles and all levels. <a href=\"https://himalayas.app/companies/tailscale\">Tailscale</a>'s compensation package includes base salary, equity, and comprehensive benefits. The salary range displayed on each job posting represents the target range for a new hire's base salary. Individual offers may vary based on experience and skill set.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\">\n<div class=\"title\">CAN Pay Range</div>\n<div class=\"pay-range\">$250,580—$313,560 CAD</div>\n</div></div><div class=\"content-conclusion\">\n<h3>What We Offer</h3>\n<ul>\n<li>\n<strong>An inclusive, flexible environment where you can be your authentic self.</strong> We recognize the impact of diverse voices and backgrounds on the growth of our people, product, and company. And that flexibility in how and when you work empowers our team to integrate work and life.</li>\n<li>\n<strong>A competitive total compensation package.</strong> This includes a base salary, an equity incentive plan and variable commission (for quota-based roles).</li>\n<li>\n<strong>Comprehensive group benefits with no waiting period. </strong>Take advantage of coverage for health, vision, dental, and more for you and your family!</li>\n<li>\n<strong>Remote first company</strong>—most of our teams work fully remotely. Enjoy a change of scenery wherever you can get wifi, participate in virtual and in-person social events, and leverage our corporate co-working program to visit WeWork (or other similar spaces near you). Some roles require in-office collaboration depending on team needs, which will be clearly noted in the job description.</li>\n<li>\n<strong>Employer-funded retirement contributions. </strong><a href=\"https://himalayas.app/companies/tailscale\">Tailscale</a> will match your retirement contributions dollar-for-dollar, up to a maximum annual employer contribution equal to 0.75% of your eligible compensation.</li>\n<li>\n<strong>Connect with other Tailscalars IRL. </strong>Attend our annual company retreat, participate in team off-sites, and collaborate in person with teammates across Canada, the United States, the United Kingdom, and Singapore. We support intentional in-person connection through team travel and distributed collaboration.</li>\n<li>\n<strong>Support for your personal and professional development.</strong> Grow your career thoughtfully with $1500 USD annually for professional development, or take advantage of mentorship, coaching, and internal promotion opportunities. </li>\n<li>\n<strong>Paid time off and a healthy work-life integration. </strong>Our flexible, paid time off program supports you for any situation life throws your way, whether moving homes or travelling the world! </li>\n<li>\n<strong>A build-your-own home office setup. </strong>You choose your own company-owned laptop (Mac or PC), receive a monthly home internet reimbursement, and $500 USD to customize your workstation to make it your own. </li>\n<li>\n<strong>Paid parental leave program</strong>. We care about your life outside of work and encourage new parents to take advantage of parental leave top-ups (20 weeks for birthing parents, 16 weeks for non-birthing parents).</li>\n</ul>\n<p><em><a href=\"https://himalayas.app/companies/tailscale\">Tailscale</a> is committed to providing an accessible and inclusive hiring process. If you require an accommodation at any stage of the recruitment process or related to any aspect of this role, please contact your recruiter.</em></p>\n<p><em>Our hiring process uses AI-assisted tools to help screen and assess candidates. All hiring decisions are made by people.</em></p>\n<p><em>Please be aware that legitimate emails from <a href=\"https://himalayas.app/companies/tailscale\">Tailscale</a>'s talent team will only originate from @tailscale.com, @greenhouse.io, and @interviews.modernloop.io email addresses. For more information about protecting yourself from impersonators and scams, please visit .</em></p>\n</div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912307,
+            "expiryDate": 1795096306,
+            "applicationLink": "https://himalayas.app/companies/tailscale/jobs/commercial-legal-counsel",
+            "guid": "https://himalayas.app/companies/tailscale/jobs/commercial-legal-counsel"
+        },
+        {
+            "title": "Senior Creative Strategist, Fashion",
+            "excerpt": "Who We Are:Power Digital is an AI-Native Growth Firm built at the intersection of world-class talent and proprietary technology.",
+            "companyName": "Power Digital Marketing",
+            "companySlug": "power-digital-marketing",
+            "companyLogo": "https://cdn-images.himalayas.app/bhkymn9m38zbb5mc33jk9bc450xp",
+            "employmentType": "Full Time",
+            "minSalary": null,
+            "maxSalary": null,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Senior"
+            ],
+            "currency": null,
+            "locationRestrictions": [
+                "Brazil"
+            ],
+            "timezoneRestrictions": [
+                -5,
+                -4,
+                -3,
+                -2
+            ],
+            "categories": [
+                "Creative-Strategy",
+                "Paid-Social",
+                "Fashion-Marketing",
+                "Digital-Marketing",
+                "Creative",
+                "Senior-Creative-Strategist",
+                "Fashion-Strategist",
+                "Creative-Strategist"
+            ],
+            "parentCategories": [],
+            "description": "<div class=\"content-intro\">\n<h3>Who We Are:</h3>\n<p>Power Digital is an AI-Native Growth Firm built at the intersection of world-class talent and proprietary technology. We help leading and emerging brands grow by combining deep vertical expertise, strategic thinking, and enterprise intelligence to drive measurable business outcomes.</p>\n<p>For more than a decade, we have built our business around one belief: the best technology makes great people better. Our teams of strategists, creatives, analysts, and technologists use Omega, our AI operating system, to surface opportunities faster, investigate what is driving performance, and execute approved work with greater speed and precision. Behind Omega is Iris, our proprietary intelligence layer, built on years of real performance data, strategic frameworks, testing, and learnings from across our client portfolio. AI expands the capacity of our people to think, create, solve harder problems, and make better decisions. Human judgment, creativity, and accountability remain central to how we work. </p>\n<p>As a people-first firm, we value diversity in backgrounds and experiences. We strongly believe our people and culture are key to our success. We partner closely with our clients as an extension of their teams, working across strategy, execution, and measurement to identify what is truly blocking growth and determine what to do next. Our culture is built on people who are curious, ambitious, accountable, and committed to delivering meaningful results for our clients and for one another.</p>\n<p>At Power Digital, we believe the future belongs to teams that combine the best talent with the best technology. We are building that future today.</p>\n</div><p class=\"p1\"><strong>***Proficiency in spoken and written English at an advanced level is required for this role.</strong></p><h3>A day in the life:</h3><p>A Sr. Creative Strategist will be the lead ideator on strategic accounts. They are required to have a robust understanding of paid social creative best practices, their client’s brand, performance goals, historical data, current ecommerce trends, and consumer behavior, to develop winning paid social advertising that impacts their client's growth.</p><p>Sr. Creative Strategists know how to act fast to capitalize on good results, or on the flip side know what to change if an ad isn’t performing to goal. This means testing with the intention of moving the needle on key performance metrics — from improving CPA, CTR, or ROAS to driving brand awareness. Sr. Creative Strategists pitch new ideas and concepts to clients, write scripts, and follow the execution and review of ads through to production and delivery to clients.</p><p>An ideal candidate for the Sr. Creative Strategist role is a self-starter who is passionate about maximizing success for their clients through creative strategy, and is eager to take the lead on developing creative concepts that are intentionally produced to generate clear testing results and insights. They have mastered presenting creative reporting to clients and team members through storytelling, and are constantly implementing learnings to enhance future campaign results. Sr. Creative Strategists are zealous about continuously testing various creative concepts to develop a strong understanding of how to not only effectively and efficiently meet client goals, but to surpass them. If creative deliveries are not meeting client expectations, or creative tests are not hitting target goals, Sr. Creative Strategists will be relentless in the pursuit to troubleshoot and problem solve with a growth mindset.</p><h3>Responsibilities:</h3><ul>\n<li>Lead the paid social creative strategy for 6-10 clients</li>\n<li>Use data insights along with consumer and brand research to design high performing creative assets</li>\n<li>Collaborate closely with team members across internal departments and roles</li>\n<li>Maintain client communications and sentiment</li>\n<li>Driven to iterate and ideate towards stated performance goals</li>\n<li>Develop rapport with client to build a foundation of open discussion, including understanding client product and goals, as well as explaining Power Digital processes</li>\n<li>Research client brand, competitors, and industry trends, and effectively implements performance creative best practices by platform</li>\n<li>Continually audit account to identify winning ads, present data to client, and dictate hypotheses and test strategy via monthly roadmaps</li>\n<li>Write strategic consumer-centric, direct response copy and messaging strategy</li>\n<li>Manage requests and output with production team using Asana</li>\n<li>Review video/image assets and provides clear and actionable feedback to editors</li>\n<li>Lead productive internal creative team syncs and brainstorms</li>\n<li>Work alongside client management team as client POC for all things creative strategy</li>\n<li>Understand scope of requested edits, reshoots, and other deliverables</li>\n<li>Push back on client on matters of timeline, scope, feedback, and direction to drive performance based on creative best practices</li>\n<li>Identify and encourages service expansion opportunities</li>\n<li>Manage interns, PT, or FT team members, if desired</li>\n<li>Employ AI technologies to enhance and optimize business processes</li>\n<li>Utilize and leverage Power Digital's Nova ecosystem as it relates to your department</li>\n</ul><h3>Role Requirements:</h3><ul>\n<li>Proficiency with Meta Ads Manager, and/or similar performance data tools (TikTok, YouTube, Pinterest, etc)</li>\n<li>Technically skilled at pulling and using creative performance data to analyze trends, insights, and inform creative roadmaps </li>\n<li>Understanding of best practices for performance-driven creative &amp; ability to apply these insights in work</li>\n<li>Ability to write effective ad copy, structure a script, and see through on the execution with corresponding visuals</li>\n<li>Ability to communicate and collaborate with clients, production, and post-production teams to deliver best possible creative output</li>\n<li>Ability to yield strong campaign results for clients through strategizing top performing creative</li>\n</ul><h3>Key Performance Indicators (KPIs)</h3><ul>\n<li>5% or lower client churn</li>\n<li>Manage 6-10 Enterprise level clients </li>\n<li>Manage $100k of monthly recurring revenue</li>\n</ul><h3>Most Important Things (MITs)</h3><ul>\n<li>Technically skilled at pulling and using creative performance data to analyze trends and insights and inform creative roadmap. </li>\n<li>Responsible for using data insights along with consumer and brand research to orchestrate a sales/messaging/visual strategy.</li>\n</ul><div class=\"content-conclusion\">\n<p><em>Power Digital’s people and culture are at the core of our success, which is why diversity in our team’s backgrounds and experiences are paramount. We are an Equal Opportunity Employer and our employees are people with different strengths, experiences, and backgrounds, who strive to make an impact inside and outside of the workplace. Diversity not only includes race and gender identity, but also age, disability status, veteran status, sexual orientation, religion and many other parts of one’s identity. All of our employees' points of view are key to our success, and inclusion is everyone's responsibility.</em></p>\n<p><em>Please be aware of fictitious job openings, consulting engagements, solicitations, or employment offers from suspicious sources. These engagements may be an attempt to obtain private information, or to induce you to pay a fee for services related to recruitment or training. Power Digital does NOT charge any application, processing, or training fee at any stage of the recruitment or hiring process. All genuine job openings will be posted on our careers page at </em><em>. If you have any doubts about the authenticity of any messaging behalf of Power Digital, please send us an email at </em><em></em><em> before taking any further action in relation to the correspondence.</em></p>\n</div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912287,
+            "expiryDate": 1795096286,
+            "applicationLink": "https://himalayas.app/companies/power-digital-marketing/jobs/senior-creative-strategist-fashion-3256969223",
+            "guid": "https://himalayas.app/companies/power-digital-marketing/jobs/senior-creative-strategist-fashion-3256969223"
+        },
+        {
+            "title": "German Speaking - Customer Support Agent in Greece - Relocation Included",
+            "excerpt": "Kickstart your career with Next Job Abroad as a German Speaking Customer Support Agent in beautiful Greece!",
+            "companyName": "Next Job Abroad",
+            "companySlug": "next-job-abroad",
+            "companyLogo": "https://cdn-images.himalayas.app/0kohzmpg8tk7qx5xgktlt8scqytt",
+            "employmentType": "Full Time",
+            "minSalary": 23000,
+            "maxSalary": 23000,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Entry-level"
+            ],
+            "currency": "EUR",
+            "locationRestrictions": [
+                "Germany"
+            ],
+            "timezoneRestrictions": [
+                1
+            ],
+            "categories": [
+                "Customer-Support",
+                "German-Speaking",
+                "Customer-Service",
+                "Entry-Level-Support",
+                "Relocation-Jobs",
+                "IGaming",
+                "Bilingual-German-English-Customer-Support-Specialist",
+                "German-Speaking-Customer-Service-Representative",
+                "German-Speaking-Customer-Support-Jobs",
+                "Customer-Support-Agent"
+            ],
+            "parentCategories": [
+                "Customer Service"
+            ],
+            "description": "<p>Kickstart your career with <a href=\"https://himalayas.app/companies/next-job-abroad\">Next Job Abroad</a> as a German Speaking Customer Support Agent in beautiful Greece! This amazing opportunity allows you to combine your language skills and customer service expertise while experiencing the rich culture and stunning landscapes of Greece. As a key member of our support team, you will assist German-speaking clients, ensuring they receive exceptional service and assistance.</p><p>In this role, you'll respond to customer inquiries, resolve issues, and provide valuable information about our services. If you possess a positive attitude, strong communication skills, and a dedication to customer satisfaction, we invite you to join our enthusiastic team. Our relocation package will help make your transition to Greece smooth and enjoyable!</p><h3>Responsibilities</h3><ul>\n<li>Deliver outstanding customer support to <strong>German</strong>-speaking clients via chat, email, and phone.</li>\n<li>Address and efficiently resolve customer questions and concerns.</li>\n<li>Guide customers through our services to enhance their experience.</li>\n<li>Collaborate with team members to ensure high service quality standards.</li>\n<li>Accurately document customer interactions in the CRM system.</li>\n<li>Gather customer feedback to help improve services.</li>\n<li>Participate in training sessions to strengthen product knowledge and service skills.</li>\n</ul><h3>Requirements</h3><ul>\n<li>Fluency in <strong>German </strong>and a good command of English; knowledge of additional languages is a plus.</li>\n<li>Prior experience in customer service or a similar field is advantageous.</li>\n<li>Excellent communication and interpersonal skills focused on providing quality customer care.</li>\n<li>Able to multitask and work effectively in a fast-paced environment.</li>\n<li>Familiarity with CRM systems and customer support tools is desirable.</li>\n<li>Willingness to relocate to <strong>Greece </strong>and fully engage with a new culture.</li>\n<li>A keen interest in the iGaming industry is considered a significant asset.</li>\n</ul><h3>Benefits</h3><ul><li>Career growth opportunities in a renowned company.</li></ul><ul>\n<li>International &amp; diverse work environment.</li>\n<li>Competitive performance <strong>bonuses</strong>.</li>\n<li>Enjoy a <strong>lower cost of living</strong> in Greece, a beautiful Mediterranean island known for its rich history, vibrant culture, and stunning landscapes.</li>\n<li>Fully remote (within Greece) working setup.</li>\n<li>Yearly salary around <strong>€23.000</strong>. </li>\n<li>Health care benefits and numerous other discounts.</li>\n<li>Fully paid training by certified instructors.</li>\n<li>State of the art premises, providing a great working environment with relaxing break areas.</li>\n<li>Special events as well as community &amp; social responsibility initiatives.</li>\n<li>Work for a <strong>Great Place to Work-</strong>Certified Company.</li>\n<li>Relocation package: 4 week of all inclusive hotel stay, flight booked and paid by the company.</li>\n<li>This is more than just a job, it’s an opportunity to build a strong career, represent a world-renowned brand, and enjoy a high quality of life in one of the most beautiful locations in Europe!</li>\n</ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912244,
+            "expiryDate": 1795096244,
+            "applicationLink": "https://himalayas.app/companies/next-job-abroad/jobs/german-speaking-customer-support-agent-in-greece-relocation-included",
+            "guid": "https://himalayas.app/companies/next-job-abroad/jobs/german-speaking-customer-support-agent-in-greece-relocation-included"
+        },
+        {
+            "title": "Revenue Recovery Technology Specialist",
+            "excerpt": "Thank you for considering a career at Ensemble! Ensemble is a leading provider of technology-enabled revenue cycle management solutions for health systems, including hospitals and affiliated physician groups.",
+            "companyName": "Ensemble Health Partners",
+            "companySlug": "ensemble-health-partners",
+            "companyLogo": "https://cdn-images.himalayas.app/z399qx0drckr09g1y8640k87nfxn",
+            "employmentType": "Full Time",
+            "minSalary": null,
+            "maxSalary": null,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Senior"
+            ],
+            "currency": null,
+            "locationRestrictions": [
+                "United States"
+            ],
+            "timezoneRestrictions": [
+                -10,
+                -9,
+                -8,
+                -7,
+                -6,
+                -5,
+                14
+            ],
+            "categories": [
+                "Revenue-Recovery-Technology-Specialist",
+                "Healthcare-Revenue-Cycle-Management",
+                "Revenue-Cycle-Technology",
+                "Healthcare-Technology-Specialist",
+                "Healthcare-IT-Specialist",
+                "Revenue-Systems-Specialist",
+                "Revenue-Optimization-Specialist"
+            ],
+            "parentCategories": [],
+            "description": "<h3>Thank you for considering a career at Ensemble!</h3><p>Ensemble is a leading provider of technology-enabled revenue cycle management solutions for health systems, including hospitals and affiliated physician groups. They offer end-to-end revenue cycle solutions as well as a comprehensive suite of point solutions to clients across the country.</p><p>Ensemble keeps communities healthy by keeping hospitals healthy. We recognize that healthcare requires a human touch, and we believe that every touch should be meaningful. This is why our people are the most important part of who we are. By empowering them to challenge the status quo, we know they will be the difference!</p><h3>O.N.E Purpose:</h3><ul>\n<li><p><b>Customer Obsession:</b> Consistently provide exceptional experiences for our clients, patients, and colleagues by understanding their needs and exceeding their expectations.</p></li>\n<li><p><b>Embracing New Ideas:</b> Continuously innovate by embracing emerging technology and fostering a culture of creativity and experimentation.</p></li>\n<li><p><b>Striving for Excellence:</b> Execute at a high level by demonstrating our “Best in KLAS” Ensemble Difference Principles and consistently delivering outstanding results.</p></li>\n</ul><h3>The Opportunity: </h3><p>By embodying our core purpose of customer obsession, new ideas, and driving innovation, and delivering excellence, you will help ensure that every touchpoint is meaningful and contributes to our mission of redefining the possible in healthcare.</p><p>The <b>Revenue Recovery Technology Specialist</b> will assist with the producing, validation and updates to all Ensemble Revenue Recovery technology. The associate will provide up-to-date, thorough, and relevant education to all Revenue Recovery client teams with relation to updates made within Ensemble IQ (EIQ). This will include Educational Spotlights (with both PowerPoint and Word documents available after, as well as a recorded version of the training) on up-to-date opportunities for the identification of and collection of underpaid claims. Responsibilities also include serving as a technology subject matter expert within the Revenue Recovery Service line, validity of all reporting data, reaching out to leadership for answers when needed, and ensuring that the information is disseminated to the entirety of the team.</p><p>Maintain the Microsoft Teams site environment which houses all technology documents. This includes but is not limited to building out of all new client rules, updates to existing rules, and tracking of hit rate opportunities.</p><p>Research, build, upload and test prediction rules within EIQ for all new and existing clients, while also assisting in the identification of new underpayment opportunities. Ensure that all teams are aware of the updates made and are educated on how and when to use them. Regularly review the prediction rules to determine if new and/or updated rules are needed and build them into all client packages accordingly.</p><div><ul>\n<li>\n<b>Customer Obsession:</b> Consistently provide exceptional experiences for our clients, patients, and colleagues by understanding their needs and exceeding their expectations.</li>\n<li>\n<b>Embracing New Ideas:</b> Continuously innovate by embracing emerging technology and fostering a culture of creativity and experimentation.</li>\n<li>\n<b>Striving for Excellence:</b> Execute at a high level by demonstrating our “Best in KLAS” Ensemble Difference Principles and consistently delivering outstanding results.</li>\n<li>Must have excellent written and spoken communication abilities. Must demonstrate active, engaging, training tactics that engage audiences, especially virtually. Serve as subject matter expert on the ROAR service lines, what they do, and how they support each other. Engage with all the client teams as a non-competitive, useful resource.</li>\n<li>This document is not an exhaustive list of all responsibilities, skills, duties, requirements, or working conditions associated with the job. Associates may be required to perform other job-related duties as required by their supervisor, subject to reasonable accommodation.</li>\n<li>Analyzes variances and trends to identify problems and/ or trends with an understanding of all Revenue Cycle aspects including but not limited to Billing, Coding, Revenue Integrity, Denials, etc</li>\n<li>Evaluation of current processes and tools and propose changes in order to drive efficiencies within the organization</li>\n<li>Ensure effective monitoring and reporting controls are in place to improve performance</li>\n<li>Coordinate operational objectives by contributing information and recommendations to strategic plans and reviews, preparing and completing action plans</li>\n<li>Ensure that all projects are completed on-time, within scope and all barriers are communicated to the appropriate parties</li>\n<li>This document is not an exhaustive list of all responsibilities, skills, duties, requirements, or working conditions associated with the job. Associates may be required to perform other job-related duties as required by their supervisor, subject to reasonable accommodation.</li>\n</ul></div><p><b>Ensemble Required License / Certification (Ex: CRCR) ONE CERTIFICATION PER FIELD</b></p><div><ul><li>CRCR Or other approved job relevant certification</li></ul></div><div>\n<h3>People Leadership Experience</h3>\n<ul><li>5 to 7 Years</li></ul>\n</div><div>\n<h3>Preferred Area of Study</h3>\n<ul><li>Bachelors Degree or Equivalent Experience</li></ul>\n</div><h3>Other Preferred Knowledge, Skills and Abilities</h3><div><ul>\n<li>Proficiency with MS Access and Excel</li>\n<li>Proficiency with Business Objects</li>\n<li>Proficiency with SQL</li>\n<li>Must be inquisitive and demonstrate openness to innovation including AI to explore better processes and ways to alleviate friction and improve patient and client experiences </li>\n<li>This is a remote position; however, candidates must be willing and able to travel to and work onsite at client, temporary, or corporate office locations as business needs require</li>\n</ul></div><br><h3>Join an award-winning company</h3><br><p>Five-time winner of “Best in KLAS” 2020-2022, 2024-2025</p><p>Black Book Research's Top Revenue Cycle Management Outsourcing Solution 2021-2024</p><p>22 Healthcare Financial Management Association (HFMA) MAP Awards for High Performance in Revenue Cycle 2019-2024</p><p>Leader in Everest Group's RCM Operations PEAK Matrix Assessment 2024</p><p>Clarivate Healthcare Business Insights (HBI) Revenue Cycle Awards for strong performance 2020, 2022-2023</p><h3>Energage Top Workplaces USA 2022-2024</h3><p>Fortune Media Best Workplaces in Healthcare 2024</p><p>Monster Top Workplace for Remote Work 2024</p><h3>Great Place to Work certified 2023-2024</h3><ul>\n<li>Innovation</li>\n<li>Work-Life Flexibility</li>\n<li>Leadership</li>\n<li>Purpose + Values</li>\n</ul><br><p>Bottom line, we believe in empowering people and giving them the tools and resources needed to thrive. A few of those include:</p><ul>\n<li>\n<b>Associate Benefits –  </b>We offer a comprehensive benefits package designed to support the physical, emotional, and financial health of you and your family, including healthcare, time off, retirement, and well-being programs. </li>\n<li>\n<b>Our Culture</b> – Ensemble is a place where associates can do their best work and be their best selves. We put people first, last and always. Our culture is rooted in collaboration, growth, and innovation.  </li>\n<li>\n<b>Growth – </b>We invest in your professional development. Each associate will earn a professional certification relevant to their field and can obtain tuition reimbursement. </li>\n<li>\n<b>Recognition – </b>We offer quarterly and annual incentive programs for all employees who go beyond and keep raising the bar for themselves and the company. </li>\n</ul><br><p>Ensemble is an equal employment opportunity employer. It is our policy not to discriminate against any applicant or employee based on race, color, sex, sexual orientation, gender, gender identity, religion, national origin, age, disability, military or veteran status, genetic information or any other basis protected by applicable federal, state, or local laws.  Ensemble also prohibits harassment of applicants or employees based on any of these protected categories.</p><br><p>Due to business, operational, payroll, and regulatory requirements, this position is limited to individuals who reside and are authorized to work within the United States. Applications generated from outside the United States will not be considered.  Individuals may reapply when located within the United States.</p><br><p>Ensemble provides reasonable accommodations to qualified individuals with disabilities in accordance with the Americans with Disabilities Act and applicable state and local law. If you require accommodation in the application process, please contact .</p><br><p>This posting addresses state specific requirements to provide pay transparency.  Compensation decisions consider many job-related factors, including but not limited to geographic location; knowledge; skills; relevant experience; education; licensure; internal equity; time in position.  A candidate entry rate of pay does not typically fall at the minimum or maximum of the role’s range.</p><br><p>Employment Disclaimers – Ensemble</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912224,
+            "expiryDate": 1795096224,
+            "applicationLink": "https://himalayas.app/companies/ensemble-health-partners/jobs/revenue-recovery-technology-specialist",
+            "guid": "https://himalayas.app/companies/ensemble-health-partners/jobs/revenue-recovery-technology-specialist"
+        },
+        {
+            "title": "Account Executive - TIC",
+            "excerpt": "Company OverviewFor more than two decades, FoodChain ID has been at the forefront of the New Food industry, providing expertise worldwide to navigate the requirements of an ever-growing demand for higher levels of transparency, accountability, safety and sustainability.",
+            "companyName": "FoodChain ID Group, Inc",
+            "companySlug": "foodchain-id-group-inc",
+            "companyLogo": "https://cdn-images.himalayas.app/d5d08fbu2e5qxp7y8ulcsl5z7wju",
+            "employmentType": "Full Time",
+            "minSalary": null,
+            "maxSalary": null,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Mid-level"
+            ],
+            "currency": null,
+            "locationRestrictions": [
+                "Belgium"
+            ],
+            "timezoneRestrictions": [
+                1
+            ],
+            "categories": [
+                "Account-Executive",
+                "Sales-Executive",
+                "Business-Development",
+                "TIC-Sales",
+                "B2B-Sales",
+                "Client-Account-Executive",
+                "Sales"
+            ],
+            "parentCategories": [
+                "Sales"
+            ],
+            "description": "<h3>Company Overview</h3><p>For more than two decades, FoodChain ID has been at the forefront of the New Food industry, providing expertise worldwide to navigate the requirements of an ever-growing demand for higher levels of transparency, accountability, safety and sustainability. Our technical and business services support food safety, certification, testing, inspection, regulatory compliance and sustainability across the food chain. Today, more than 30,000 companies in over 100 countries rely on our industry-leading solutions. The FoodChain ID vision encompasses nothing less than assuring the safety, transparency and integrity of the global food chain, one client and product at a time.</p><h3>Summary</h3><p>FoodChain ID is seeking an experienced and results-driven Account Executive to join our TIC business in Belgium.</p><p>This is a new-business sales role focused on identifying, developing and winning new clients across the Testing, Inspection and Certification (TIC) market. The Account Executive will introduce FoodChain ID’s services to prospective customers, understand their business and compliance requirements, and develop practical solutions using the relevant parts of our certification, testing, inspection, consulting and sustainability portfolio.</p><p>The successful candidate will build relationships with decision-makers, manage opportunities through the full sales cycle and negotiate and close new business. You will work closely with technical and operational specialists to ensure that proposals are credible, relevant and aligned with customer needs. The role requires commercial drive, disciplined sales execution and the ability to sell consultatively in a technical and regulated environment.</p><h3>Responsibilities</h3><p>Lead new-business development activity across the assigned Belgium market and relevant TIC sectors.</p><p>Identify target organisations, create and manage prospect lists, and develop new-logo opportunities through proactive outreach, networking, referrals and industry activity.</p><p>Research prospective clients to understand their business priorities, regulatory environment, technical requirements and potential areas of need.</p><p>Engage with decision-makers and influencers across quality, technical, procurement, sustainability, operations and senior management functions.</p><p>Manage the full sales cycle from prospecting and qualification through discovery, proposal, negotiation and close.</p><p>Conduct effective discovery conversations and translate customer needs into appropriate TIC solutions.</p><p>Coordinate internal technical, operational and commercial resources for meetings, presentations, proposals and tenders.</p><p>Present FoodChain ID’s certification, testing, inspection, consulting and sustainability services clearly and credibly.</p><p>Develop and maintain an accurate pipeline, ensuring opportunities are properly qualified, progressed and forecast.</p><p>Negotiate commercial terms and close new-business opportunities in line with agreed targets and approval processes.</p><p>Monitor market developments, competitor activity and customer needs, and provide useful Voice of the Customer feedback to internal stakeholders.</p><p>Participate in relevant trade associations, conferences, networking events and other activities that support market development.</p><p>Use Salesforce as the source of truth, recording activity, opportunities, contacts, next steps and commercial information accurately and promptly.</p><h3>Qualifications and Experience</h3><p>Experience in business development, new-business sales or account executive work within TIC, certification, testing, inspection, food safety, regulatory compliance or a related technical services environment.</p><p>A proven record of generating and closing new business, preferably with experience selling to food, agri-food, manufacturing, retail or supply-chain organisations.</p><p>Experience managing B2B sales cycles from lead generation and qualification through proposal, negotiation and close.</p><p>Experience selling technical, regulated or professional services; direct TIC experience would be advantageous.</p><p>A practical understanding of the food and beverage or wider agri-food sector would be beneficial.</p><p>Experience using Salesforce or another CRM system, with a disciplined approach to pipeline management and sales reporting.</p><p>Strong working knowledge of Microsoft Office, particularly Word, Excel and Outlook.</p><p>Fluent professional English is required. Professional fluency in French and/or Dutch is advantageous for the local market.</p><p>A relevant degree or professional qualification is desirable but not essential where equivalent commercial and sector experience is demonstrated.</p><h3>Competencies, Knowledge, and Skills</h3><p>Demonstrated attraction to a disciplined sales approach, with the ability to follow a defined process while applying sound commercial judgement.</p><p>Relentless focus on identifying the right decision-makers and understanding customer pain points, priorities and buying processes.</p><p>Strong prospecting and new-business development skills, with the resilience and persistence needed to create opportunities and progress complex deals.</p><p>Prepares diligently for meetings, sets clear objectives, anticipates potential obstacles and plans appropriate next steps.</p><p>Excellent communication, presentation and negotiation skills, with the ability to establish credibility with technical and senior stakeholders.</p><p>Able to explain technical and regulated services in clear, practical language and connect solutions to business outcomes.</p><p>Understands the importance of involving technical and operational experts at the right stage of the sales process.</p><p>Strong analytical skills, with the ability to use market, customer and pipeline information to inform sales activity.</p><p>Communicates effectively through active listening, transparent communication and tailored messaging that supports win-win outcomes.</p><p>Self-motivated, organised and comfortable working independently while collaborating with colleagues across a geographically distributed organisation.</p><p>Excellent written and spoken English, strong interpersonal skills and the right to work in the relevant country.</p>The role is remote based with client travel<p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912195,
+            "expiryDate": 1795096194,
+            "applicationLink": "https://himalayas.app/companies/foodchain-id-group-inc/jobs/account-executive-tic-1174822699",
+            "guid": "https://himalayas.app/companies/foodchain-id-group-inc/jobs/account-executive-tic-1174822699"
+        },
+        {
+            "title": "Strategic Customer Success Manager – Remote",
+            "excerpt": "As the most trusted global leader in data-first contract lifecycle management (CLM) software, Agiloft helps organizations manage the end-to-end process of proposing, negotiating, signing, and leveraging contracts using our flexible Data-first Agreement Platform (DAP).",
+            "companyName": "Agiloft",
+            "companySlug": "agiloft",
+            "companyLogo": "https://cdn-images.himalayas.app/7wlfqnzavka4vww2k7cgryk2taam",
+            "employmentType": "Full Time",
+            "minSalary": null,
+            "maxSalary": null,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Senior"
+            ],
+            "currency": null,
+            "locationRestrictions": [
+                "United Kingdom"
+            ],
+            "timezoneRestrictions": [
+                0
+            ],
+            "categories": [
+                "Customer-Success",
+                "Strategic-Account-Management",
+                "Sales",
+                "Customer-Success-Manager",
+                "Strategic-Customer-Success-Manager",
+                "Senior-Customer-Success-Manager"
+            ],
+            "parentCategories": [
+                "Customer Service",
+                "Sales"
+            ],
+            "description": "<div>As the most trusted global leader in data-first contract lifecycle management (CLM) software, <a href=\"https://himalayas.app/companies/agiloft\">Agiloft</a> helps organizations manage the end-to-end process of proposing, negotiating, signing, and leveraging contracts using our flexible Data-first Agreement Platform (DAP). With contract data as the foundation, customers quickly and collaboratively reach agreement and leverage contract visibility to thrive with competitive advantage. Employing powerful, pragmatic artificial intelligence as a legal force multiplier, and robust integration capabilities as a data liberator, organizations around the world trust <a href=\"https://himalayas.app/companies/agiloft\">Agiloft</a>’s certified implementers to deliver connected, intelligent, and autonomous solutions across the entire contract lifecycle.</div><div>Top analysts like Gartner, Forrester, and IDC agree, all showing <a href=\"https://himalayas.app/companies/agiloft\">Agiloft</a> as a leader in the CLM space. Our no code platform is easily managed and administered by business users, which is why <a href=\"https://himalayas.app/companies/agiloft\">Agiloft</a> is the contract you keep: nearly a full 100% of new customers are satisfied with their initial implementations, and some 97% of customers renew every year. Ours is a growing, vibrant, successful company that is at the forefront of a market that is becoming a must-have for all organizations.</div><div>We believe that the way to build the strongest, most vibrant place to work is to bring in individuals from all walks of life, and to support them in bringing their authentic selves to their day, every day. Our working philosophy is that “EX = CX”: when employee experience is excellent, so is customer experience. We support multiple Employee Resource Groups (ERGs), and offer a working environment that supports healthy work/life balance, including floating holidays and a quarterly, no-questions-asked wellness day.</div><h3>Position Overview  </h3><p>As a Strategic Customer Success Manager (CSM) at <a href=\"https://himalayas.app/companies/agiloft\">Agiloft</a>, you will manage a portfolio of high-value and strategically important customers with complex business needs, stakeholder environments, and service engagements.</p><p>You will serve as a trusted advisor, developing a deep understanding of customer objectives and helping customers maximize the value they realize from <a href=\"https://himalayas.app/companies/agiloft\">Agiloft</a>. Through proactive, data-informed account management, you will guide adoption, monitor customer health, identify risks, and shape strategies that support retention, growth, and long-term success. You will bring strong product expertise and consultative skills to help customers understand relevant capabilities, navigate configurations, and adopt functionality that supports their business priorities. You will partner closely with Account Managers and cross-functional teams to coordinate complex customer engagements, address challenges, and identify expansion opportunities.</p><p>Success in this role looks like strong strategic customer relationships, measurable value realization, sustained adoption and retention, effective navigation of complex stakeholder environments, and identification of meaningful opportunities to expand customer value.</p><h3>Job Responsibilities</h3><ul><div>\n<h3>Strategic Customer Partnership &amp; Value Realization</h3>\n<ul>\n<li>Serve as the primary Customer Success partner for a portfolio of high-value and strategically important customers.</li>\n<li>Build trusted relationships across complex customer organizations, including senior and executive stakeholders as appropriate.</li>\n<li>Develop a deep understanding of customer business objectives, priorities, success measures, and evolving needs.</li>\n<li>Translate customer goals into clear success plans and measurable outcomes supported by <a href=\"https://himalayas.app/companies/agiloft\">Agiloft</a>.</li>\n<li>Conduct strategic customer engagements and Business Reviews to assess progress, demonstrate value, and align on priorities.</li>\n<li>Act as a trusted advisor by recommending approaches that help customers maximize the value of <a href=\"https://himalayas.app/companies/agiloft\">Agiloft</a>.</li>\n<h3>Product Expertise, Adoption &amp; Customer Health</h3>\n<ul>\n<li>Maintain strong product expertise and advise customers on relevant <a href=\"https://himalayas.app/companies/agiloft\">Agiloft</a> capabilities, new functionality, and best practices.</li>\n<li>Conduct product demonstrations as appropriate and provide consultative guidance on technical setups and configurations within the scope of the role.</li>\n<li>Guide feature adoption, onboarding, and change management for key capabilities and customer initiatives.</li>\n<li>Monitor usage, engagement, account health, and other customer signals to identify potential risks and opportunities.</li>\n<li>Develop and execute strategies to improve adoption, address customer challenges, and strengthen value realization.</li>\n<li>Use data and customer insights to inform account strategy, recommendations, and customer conversations.</li>\n<h3>Retention, Growth &amp; Account Strategy</h3>\n<ul>\n<li>Proactively manage customer health and risk to support strong retention across the assigned portfolio.</li>\n<li>Partner with Account Managers on renewal and growth strategy, providing customer context, health insights, risks, and value realization information.</li>\n<li>Identify and qualify upsell, cross-sell, and expansion opportunities based on customer objectives, adoption, and evolving needs.</li>\n<li>Generate internal referrals and contribute to pipeline growth through strategic identification of customer opportunities.</li>\n<li>Maintain accurate account information, risks, opportunities, and customer activity within relevant systems.</li>\n<h3>Complex Engagement &amp; Cross-Functional Collaboration</h3>\n<ul>\n<li>Coordinate across Implementation, Support, Sales, Product, Engineering, partner implementers, and other internal stakeholders to advance complex customer needs and service engagements.</li>\n<li>Navigate competing customer priorities, dependencies, and stakeholder interests to maintain progress and alignment.</li>\n<li>Communicate complex customer needs, risks, and opportunities clearly across internal and external stakeholder groups.</li>\n<li>Represent the voice of the customer internally and contribute insights that can inform product, process, and customer experience improvements.</li>\n<li>Leverage AI-enabled tools to improve productivity, synthesize customer and account information, and streamline routine Customer Success workflows.</li>\n<li>Apply sound judgment when balancing customer needs, business objectives, available resources, and competing priorities.</li>\n<li>Other duties as assigned.</li>\n</ul>\n</ul>\n</ul>\n</ul>\n</div></ul><h3>Required Qualifications</h3><ul><div>\n<li>5+ years of experience in Customer Success, Account Management, Relationship Management, or a related customer-facing role within a SaaS or technology environment.</li>\n<li>Experience managing high-value, complex, or strategically important customer relationships.</li>\n<li>Experience supporting complex service engagements and working across multiple customer stakeholders, priorities, or use cases.</li>\n<li>Proven experience building and maintaining trusted customer relationships while driving adoption, retention, value realization, and growth.</li>\n<li>Strong product and technical acumen with the ability to conduct product demonstrations and provide consultative guidance on product configurations.</li>\n<li>Strong interpersonal and communication skills with the ability to effectively engage stakeholders at varying levels of seniority, including senior and executive stakeholders as appropriate.</li>\n<li>Strong critical thinking and problem-solving skills with the ability to assess complex customer needs, risks, and opportunities and determine appropriate strategies.</li>\n<li>Ability to use data, customer insights, and business context to inform account strategy and recommendations.</li>\n<li>Strong organization and prioritization skills with the ability to independently manage multiple complex customer relationships and competing objectives.</li>\n<li>Demonstrated ability to collaborate and influence across functions to drive customer outcomes.</li>\n<li>Adaptability and comfort operating in a fast-paced, remote environment.</li>\n<li>Experience using AI-enabled tools, automation, or other advanced systems to support productivity and day-to-day work.</li>\n</div></ul><div>Ensuring a diverse and inclusive workplace is our priority. We are committed to an environment of acceptance where you are free to bring your full self to work. All employment decisions at <a href=\"https://himalayas.app/companies/agiloft\">Agiloft</a> are based on business needs, job requirements, and individual qualifications without regard to race, color, religion or belief, national or social ethnic origin, sex, age, sexual orientation, gender identity and/or expression, parental status, marital status, Veteran status, or any other status protected by the laws or regulations in the locations where we operate. If you have a need that requires accommodation during the recruiting process, please let us know by contacting Director, Talent Acquisition, Brad Toothman at .</div><div>Applicants from underrepresented groups such as minorities, veterans, or individuals with disabilities encouraged to apply.</div><div>Applications will be reviewed as submitted.  There will be no application deadline for this opportunity.  </div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912188,
+            "expiryDate": 1795096188,
+            "applicationLink": "https://himalayas.app/companies/agiloft/jobs/strategic-customer-success-manager-remote",
+            "guid": "https://himalayas.app/companies/agiloft/jobs/strategic-customer-success-manager-remote"
+        },
+        {
+            "title": "General & Op Acctng. Sr. Spclst (Remote, 14, MY)",
+            "excerpt": "Req ID:389026 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us.",
+            "companyName": "NTT DATA",
+            "companySlug": "nttdata",
+            "companyLogo": "https://cdn-images.himalayas.app/to0griyuq0frod5n5b7505ono0z4",
+            "employmentType": "Full Time",
+            "minSalary": null,
+            "maxSalary": null,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Senior"
+            ],
+            "currency": null,
+            "locationRestrictions": [
+                "Myanmar"
+            ],
+            "timezoneRestrictions": [
+                6.5
+            ],
+            "categories": [
+                "General-Accounting",
+                "Operational-Accounting",
+                "Senior-Accounting-Specialist",
+                "Financial-Accounting",
+                "Finance-Specialist",
+                "General-and-Op-Acctng.-Sr.-Spclst",
+                "Remote-Senior-Accountant",
+                "Senior-GL-Accountant",
+                "Senior-Staff-Accountant"
+            ],
+            "parentCategories": [],
+            "description": "<p><strong>Req ID:</strong>389026</p><p><a href=\"https://himalayas.app/companies/nttdata\">NTT DATA</a> strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.</p><p>We are currently seeking a General &amp; Op Acctng. Sr. Spclst to join our team in Remote, Wilayah Persekutuan Kuala Lumpur (MY-14), Malaysia (MY).</p><h3>Your day at <a href=\"https://himalayas.app/companies/nttdata\">NTT DATA</a>\n</h3><p>The Financial Accountant is a seasoned subject matter expert, responsible for assisting with the preparation of more routine financial reports, processing journal entries and the accounting month-end, as well as preparing balance sheet reconciliations.</p><p>This primary objective of this role is to report on costs, productivity, margins, and expenditures, as well as offer financial recommendations and may also assist with the management and preparation of budgets.</p><h3>Key responsibilities:</h3><ul>\n<li>Assists with financial forecasting processes.</li>\n<li>Reconciles accounts, resolves discrepancies and collaborates across various finance and non-finance functions.</li>\n<li>Responsible for analysing journals, producing data analysis and reports and assists with variance analysis.</li>\n<li>Responsible for the assembly of the annual audit information for external auditors.</li>\n<li>As a partner in the accounting process, recommends how to improve efficiency using automation.</li>\n<li>Analyses past performance financial data and prepares budgets and forecasts for business unit management.</li>\n<li>Implements effective financial controls, including systems reconciliations and ensuring the integrity of reported figures.</li>\n<li>Plans month-end activities which includes the preparation and processing of month-end journal entries and executing a variety of actions in the accounting system.</li>\n<li>Performs any other relevant task as requested by management.</li>\n</ul><h3>To thrive in this role, you need to have:</h3><ul>\n<li>Good communication skills (both verbal and written).</li>\n<li>Good interpersonal skills with good planning and organizing abilities.</li>\n<li>Demonstrates good attention to detail and deadline driven.</li>\n<li>Ability to cope with stressful situations.</li>\n<li>Ability to deal with different individuals at all levels in the organization.</li>\n<li>Takes own initiative with a solutions-orientated approach.</li>\n<li>Maintains a high standard of accuracy and quality.</li>\n<li>Proactive approach with the ability to think ahead in a fast-paced environment</li>\n<li>Ability to work independently and be a knowledge expert</li>\n<li>Strong analytical skills, and an ability to understand underlying business drivers and provide actionable insights.</li>\n<li>Seasoned working knowledge of accounting practices and principles.</li>\n<li>Knowledge and prior exposure to international entities, foreign currency, and inter-company transactions.</li>\n</ul><h3>Academic qualifications and certifications:</h3><ul><li>Bachelor's degree or equivalent in Accounting or Finance or related field.</li></ul><h3>Required experience:</h3><ul>\n<li>Seasoned experience gained in similar role preferably within a similar global organization.</li>\n<li>Seasoned financial accounting experience.</li>\n<li>Seasoned experience working on financial systems / software.</li>\n</ul><h3>About <a href=\"https://himalayas.app/companies/nttdata\">NTT DATA</a>\n</h3><p><a href=\"https://himalayas.app/companies/nttdata\">NTT DATA</a> is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. <a href=\"https://himalayas.app/companies/nttdata\">NTT DATA</a> is a part of NTT Group, which invests over $3 billion each year in R&amp;D.</p><p>Whenever possible, we hire locally to <a href=\"https://himalayas.app/companies/nttdata\">NTT DATA</a> offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an <a href=\"https://himalayas.app/companies/nttdata\">NTT DATA</a> office or client site, in-office attendance may be required for meetings or events, depending on business needs. At <a href=\"https://himalayas.app/companies/nttdata\">NTT DATA</a>, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. <a href=\"https://himalayas.app/companies/nttdata\">NTT DATA</a> recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, .</p><p><strong><em><a href=\"https://himalayas.app/companies/nttdata\">NTT DATA</a> endeavors to make  accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at . </em></strong><strong><em>This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. <a href=\"https://himalayas.app/companies/nttdata\">NTT DATA</a> is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.</em></strong></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912188,
+            "expiryDate": 1795096188,
+            "applicationLink": "https://himalayas.app/companies/nttdata/jobs/general-op-acctng-sr-spclst-remote-14-my",
+            "guid": "https://himalayas.app/companies/nttdata/jobs/general-op-acctng-sr-spclst-remote-14-my"
+        },
+        {
+            "title": "Global Category Sr. Manager - Business Intelligence",
+            "excerpt": "Career CategoryProcurementJob DescriptionJoin Amgen’s Mission of Serving PatientsAt Amgen, if you feel like you’re part of something bigger, it’s because you are.",
+            "companyName": "Amgen",
+            "companySlug": "amgen",
+            "companyLogo": "https://cdn-images.himalayas.app/ygg1esm3yk1c2zkiz3q48u0exbfh",
+            "employmentType": "Full Time",
+            "minSalary": 134490.4,
+            "maxSalary": 181957.6,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Manager",
+                "Senior"
+            ],
+            "currency": "USD",
+            "locationRestrictions": [
+                "United States"
+            ],
+            "timezoneRestrictions": [
+                -10,
+                -9,
+                -8,
+                -7,
+                -6,
+                -5,
+                14
+            ],
+            "categories": [
+                "Procurement",
+                "Category-Management",
+                "Strategic-Sourcing",
+                "Supply-Chain-Management",
+                "Business-Intelligence",
+                "Global-Category-Manager",
+                "Category-Insights-Manager",
+                "Senior-Category-Manager",
+                "Senior-Manager-Business-Intelligence",
+                "Strategic-Category-Lead",
+                "Category-Manager",
+                "Senior-Business-Analytics-Manager"
+            ],
+            "parentCategories": [],
+            "description": "<h3><b>Career Category</b></h3>Procurement<h3><b>Job Description</b></h3><h3>Join <a href=\"https://himalayas.app/companies/amgen\">Amgen</a>’s Mission of Serving Patients</h3><p>At <a href=\"https://himalayas.app/companies/amgen\">Amgen</a>, if you feel like you’re part of something bigger, it’s because you are. Our shared mission—to serve patients living with serious illnesses—drives all that we do.</p><p>Since 1980, we’ve helped pioneer the world of biotech in our fight against the world’s toughest diseases. With our focus on four therapeutic areas –Oncology, Inflammation, General Medicine, and Rare Disease– we reach millions of patients each year. As a member of the <a href=\"https://himalayas.app/companies/amgen\">Amgen</a> team, you’ll help make a lasting impact on the lives of patients as we research, manufacture, and deliver innovative medicines to help people live longer, fuller happier lives.</p><p>Our award-winning culture is collaborative, innovative, and science based. If you have a passion for challenges and the opportunities that lay within them, you’ll thrive as part of the <a href=\"https://himalayas.app/companies/amgen\">Amgen</a> team. Join us and transform the lives of patients while transforming your career.</p><p>Global Category Lead – Business Intelligence</p><h3><b>What you will do</b></h3><p>Let’s do this. Let’s change the world. In this vital role you will serve as the Global Category Lead for Business Intelligence, reporting to the Business Partner Lead, Business Intelligence &amp; Market Access.</p><p>You will spearhead initiatives to define partnership strategies, oversee business planning and governance, and unlock innovation and value realization across US &amp; Global Marketing including Global Customer Capabilities.</p><p>Your mission will extend to fostering collaboration, enabling enterprise-wide initiatives, and championing change to position Global Procurement as a strategic value driver within the organization.</p><h3><b>Roles &amp; Responsibilities:</b></h3><h3>Trusted Advisor &amp; Market Expert</h3><ul><li>Serve as a trusted advisor and thought leader within the Commercialization organization by delivering expert insights into market dynamics, supplier capabilities, and best practices. Translate these insights into actionable category strategies that support business growth and go-to-market execution.</li></ul><h3>Strategic Partnership &amp; Stakeholder Alignment</h3><ul><li>Forge strong, strategic relationships with partners across Global and US Marketing, including Global Customer Capabilities, to ensure alignment between business priorities and Category strategies in Business Intelligence.</li></ul><h3>Category Strategy Development</h3><ul><li>Leverage market intelligence to design and implement business strategies that directly align with category objectives, ensuring a cohesive approach that delivers measurable value.</li></ul><h3>Supplier-Enabled Innovation</h3><ul><li>Partner strategically with the supply base to co-create solutions and drive innovation that accelerates business partner objectives and enhances category value delivery.</li></ul><h3>Procurement Expertise &amp; Business Enablement</h3><ul><li>Provide deep category expertise to advance business development, operational efficiency, and other high-value initiatives that position Procurement as a catalyst for innovation and growth.</li></ul><h3>Value Generation &amp; Financial Stewardship</h3><ul><li>Collaborate with Finance and cross-functional teams to capture, quantify, and recognize value across the pipeline. Influence budgeting and P&amp;L decisions to improve category impact on business outcomes.</li></ul><h3>Strategic Initiative Promotion</h3><ul><li>Drive adoption of Procurement-led, business-aligned initiatives. Ensure seamless integration across collaborators, suppliers, end users, and partners to achieve sustainable business value.</li></ul><h3>Performance &amp; Business Alignment</h3><ul><li>Bridge procurement performance with business objectives by implementing key initiatives designed and championed by Category Leads, ensuring measurable impact and alignment with enterprise goals.</li></ul><h3><b>What we expect of you</b></h3><p>We are all different, yet we all use our unique contributions to serve patients. The professional we seek is an individual with these qualifications.</p><h3>Basic Qualifications:</h3><p>Doctorate degree and 2 years of business partnering, marketing, and/or related experience</p><h3>Or</h3><p>Master’s degree and 4 years of business partnering, marketing, and/or related experience</p><h3>Or</h3><p>Bachelor’s degree and 6 years of business partnering, marketing, and/or related experience</p><h3>Or</h3><p>Associate’s degree and 10 years of business partnering, marketing, and/or related experience</p><h3>Or</h3><p>High school diploma / GED and 12 years of business partnering, marketing, and/or related experience</p><h3>Preferred Qualifications:</h3><ul>\n<li>Expertise in Commercialization Contracting frameworks and/or advanced Sourcing Excellence practices<b>.</b>\n</li>\n<li>Strong background in Business Intelligence Procurement within Biotech or Pharma, with deep understanding of the unique regulatory and market dynamics of these industries.</li>\n<li>Advanced degree (MBA or equivalent) or significant professional experience</li>\n<li>Strong analytical approach with expertise in performance measurement, value</li>\n<li>Demonstrated ability to lead, inspire, and align global, matrixed teams across business units, functions, and geographies.</li>\n<li>Expertise in driving cross-functional initiatives, making strategic trade-offs, and representing major categories in executive forums.</li>\n<li>Exceptional change management skills, with the ability to champion and implement complex Procurement strategies and business transformations across ecosystems.</li>\n<li>Competence in distilling business objectives into actionable category strategies that deliver measurable results.</li>\n<li>Deep understanding of how to embed supplier-enabled innovation into commercial strategies to enhance competitive advantage.</li>\n<li>Outstanding communication, negotiation, and stakeholder engagement skills to drive alignment and secure consensus at all levels of the organization.</li>\n</ul><h3><b>What you can expect of us</b></h3><p>As we work to develop treatments that take care of others, we also work to care for your professional and personal growth and well-being. From our competitive benefits to our collaborative culture, we’ll support your journey every step of the way.</p><p>The expected annual salary range for this role in the U.S. (excluding Puerto Rico) is posted. Actual salary will vary based on several factors including but not limited to, relevant skills, experience, and qualifications.</p><p>In addition to the base salary, <a href=\"https://himalayas.app/companies/amgen\">Amgen</a> offers a Total Rewards Plan, based on eligibility, comprising of health and welfare plans for staff and eligible dependents, financial plans with opportunities to save towards retirement or other goals, work/life balance, and career development opportunities that may include:</p><ul>\n<li>A comprehensive employee benefits package, including a Retirement and Savings Plan with generous company contributions, group medical, dental and vision coverage, life and disability insurance, and flexible spending accounts</li>\n<li>A discretionary annual bonus program, or for field sales representatives, a sales-based incentive plan</li>\n<li>Stock-based long-term incentives</li>\n<li>Award-winning time-off plans</li>\n<li>Flexible work models, including remote and hybrid work arrangements, where possible</li>\n</ul><h3>Apply now and make a lasting impact with the <a href=\"https://himalayas.app/companies/amgen\">Amgen</a> team.</h3><h3><b>careers.amgen.com</b></h3><p>In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.</p><h3>Application deadline</h3><p><a href=\"https://himalayas.app/companies/amgen\">Amgen</a> does not have an application deadline for this position; we will continue accepting applications until we receive a sufficient number or select a candidate for the position.</p><p>As an organization dedicated to improving the quality of life for people around the world, <a href=\"https://himalayas.app/companies/amgen\">Amgen</a> fosters an inclusive environment of diverse, ethical, committed and highly accomplished people who respect each other and live the <a href=\"https://himalayas.app/companies/amgen\">Amgen</a> values to continue advancing science to serve patients. Together, we compete in the fight against serious disease.</p><p><a href=\"https://himalayas.app/companies/amgen\">Amgen</a> is an Equal Opportunity employer and will consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or any other basis protected by applicable law.</p><p>We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.</p>.<h3>Salary Range</h3>134,490.40USD -181,957.60 USD<p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912154,
+            "expiryDate": 1795096153,
+            "applicationLink": "https://himalayas.app/companies/amgen/jobs/global-category-sr-manager-business-intelligence",
+            "guid": "https://himalayas.app/companies/amgen/jobs/global-category-sr-manager-business-intelligence"
+        },
+        {
+            "title": "Operations Coordinator",
+            "excerpt": "We’re looking for an experienced, hands-on operations professional to help coordinate workflows and initiatives across different areas of our business.",
+            "companyName": "Smart Apartment Data",
+            "companySlug": "smart-apartment-data",
+            "companyLogo": "https://cdn-images.himalayas.app/habsh61syhqn1jtzad877ownsfnq",
+            "employmentType": "Full Time",
+            "minSalary": 80000,
+            "maxSalary": 90000,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Senior"
+            ],
+            "currency": "CAD",
+            "locationRestrictions": [
+                "Canada"
+            ],
+            "timezoneRestrictions": [
+                -8,
+                -7,
+                -6,
+                -5,
+                -4,
+                -3.5
+            ],
+            "categories": [
+                "Operations-Coordinator",
+                "Business-Operations",
+                "Project-Coordinator",
+                "Customer-Operations",
+                "Operations-Lead",
+                "Senior-Operations-Coordinator"
+            ],
+            "parentCategories": [
+                "Operations",
+                "Customer Service"
+            ],
+            "description": "<p>We’re looking for an experienced, hands-on operations professional to help coordinate workflows and initiatives across different areas of our business.</p><p>This is a multifaceted role that may support customer operations, process improvement, and other cross-functional initiatives. You’ll work with both business and technical teams to keep priorities moving, resolve issues, improve processes, and ensure strong follow-through.</p><h3>What You’ll Do  </h3><ul>\n<li> Coordinate workflows and initiatives across different areas of the business. </li>\n<li> Support customer-related operations, including onboarding, ongoing customer needs, and retention initiatives. </li>\n<li> Work across teams such as Sales, Accounting, Operations, and technical teams to resolve issues and move priorities forward. </li>\n<li> Track priorities, blockers, follow-ups, and next steps. </li>\n<li> Identify operational gaps and help determine the right people or resources needed. </li>\n<li> Build and improve processes as business needs evolve. </li>\n<li> Follow issues and commitments through to completion. </li>\n<li> Provide clear, concise updates on progress and outstanding items. </li>\n</ul><h3>Requirements</h3><h3>What We’re Looking For</h3><ul>\n<li>5+ years of professional experience, including substantial hands-on business operations experience. </li>\n<li>Previous experience as an Operations Manager, Operations Lead, Business Operations Manager, General Manager, or comparable hands-on operations role. </li>\n<li>Experience working in an established business environment involving multiple teams, functions, and priorities. </li>\n<li>Strong cross-functional coordination and problem-solving experience. </li>\n<li>Demonstrated experience owning workflows or initiatives from start to finish. </li>\n<li>Experience improving processes and ensuring consistent follow-through. </li>\n<li>Comfortable working with both business and technical teams.</li>\n<li>Clear, concise professional communication. </li>\n</ul><h3>Benefits</h3><ul>\n<li>CAD $80,000 annual salary plus up to CAD $10,000 annual bonus</li>\n<li> Fully remote</li>\n</ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912136,
+            "expiryDate": 1795096135,
+            "applicationLink": "https://himalayas.app/companies/smart-apartment-data/jobs/operations-coordinator-9003037675",
+            "guid": "https://himalayas.app/companies/smart-apartment-data/jobs/operations-coordinator-9003037675"
+        },
+        {
+            "title": "Sr Technical Property Adjuster",
+            "excerpt": "For more than 170 years, The Hanover has been committed to delivering on our promises and being there when it matters the most.",
+            "companyName": "The Hanover Insurance Group",
+            "companySlug": "the-hanover-insurance-group",
+            "companyLogo": "",
+            "employmentType": "Full Time",
+            "minSalary": 90000,
+            "maxSalary": 108000,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Senior"
+            ],
+            "currency": "USD",
+            "locationRestrictions": [
+                "United States"
+            ],
+            "timezoneRestrictions": [
+                -10,
+                -9,
+                -8,
+                -7,
+                -6,
+                -5,
+                14
+            ],
+            "categories": [
+                "Claims-Adjusting",
+                "Property-Claims-Adjuster",
+                "Senior-Claims-Adjuster",
+                "Field-Property-Claims",
+                "Insurance-Claims",
+                "Senior-Property-Adjuster",
+                "Senior-Property-Claims-Adjuster",
+                "Senior-Field-Property-Adjuster",
+                "Technical-Claims-Adjuster",
+                "Senior-Adjuster",
+                "Senior-Property-Damage-Claims-Examiner",
+                "Property-Adjuster"
+            ],
+            "parentCategories": [],
+            "description": "<p>For more than 170 years, The Hanover has been committed to delivering on our promises and being there when it matters the most. We live our values every day, demonstrating we CARE through our values, Sustainability initiatives and inclusive corporate culture.</p><p>Our Property Severity Claims department is seeking a Senior Technical Property Adjuster. This is a remote Full-time/Exempt role with field investigations.</p><h3>POSITION OVERVIEW:</h3><p>The Sr Technical Property Adjuster is responsible for independently managing highly complex and high-value field property service claims. This role requires advanced investigation, evaluation, and negotiation skills to resolve field property claims with minimal oversight. It involves thorough analysis, collaboration with internal teams and external experts, and will require travel on short notice. Strong technical expertise and the ability to manage claims in accordance with policy provisions, regulations, and best practices are essential to delivering high-quality service and outcomes.</p><h3>IN THIS ROLE, YOU WILL:</h3><ul>\n<li>Independently investigate highly complex and sensitive field property service claims, including those requiring outside field investigations and catastrophe (CAT) response, ensuring thorough analysis and resolution.</li>\n<li>Lead thorough investigations, assess coverage, and issue appropriate documentation including reservation of rights and coverage letters. Escalate issues as needed.</li>\n<li>Collaborate with internal and external experts, including legal, underwriting, vendors, and agents, to evaluate claims and determine validity and value.</li>\n<li>Lead cross-functional meetings and communicate complex information clearly to diverse audiences.</li>\n<li>Serve as a subject matter expert and contribute to departmental projects and initiatives; act as a technical resource for other adjusters.</li>\n<li>Identify and proactively pursue opportunities to transfer risk to the appropriate entities for the benefit of insureds and business partners.</li>\n<li>Maintain comprehensive and detailed claim records, ensuring proper documentation and compliance with jurisdictional requirements.</li>\n<li>Lead quality and efficiency initiatives for complex claims workflows.</li>\n<li>Identify and assign subrogation potential appropriately; set up files to support successful recovery efforts.</li>\n<li>Ensure all claims activities comply with regulatory and company standards. Execute jurisdictional compliance requirements and support others in understanding regulatory obligations.</li>\n<li>Use technology and data tools to identify trends, correct inconsistencies, and optimize outcomes.</li>\n<li>Negotiate high-value and contested claims using advanced strategies.</li>\n<li>Investigate and manage suspicious claims using advanced techniques and tools; refer to the Special Investigation Unit (SIU) as needed. Maintain awareness of fraud indicators and regulatory reporting obligations.</li>\n<li>Set reserves, authorize payments, and make financial decisions within authority and contribute to reserving accuracy and efficiency.</li>\n<li>Use advanced tools and analytics to identify trends, correct inconsistencies, and improve claims handling efficiency. Ensure proper data ingestion, labeling, and protection of personally identifiable information (PII).</li>\n<li>Maintains comprehensive factual and organized claim records and prepares detailed reports summarizing findings and recommendations.</li>\n<li>Serve as a mentor to junior adjusters, providing guidance on complex claims, compliance, and litigation processes. Support training initiatives and contribute to the development of best practices and educational materials.</li>\n<li>Deliver empathetic, clear communication throughout the claims process. Educate claimants and stakeholders, affirm next steps, and ensure a positive customer experience.</li>\n<li>May represent the company in mediations, arbitrations, and trials.</li>\n<li>Must possess or obtain and maintain appropriate state adjuster licenses and continuing education credits, and a valid driver’s license.</li>\n</ul><h3>WHAT YOU NEED TO APPLY:</h3><ul>\n<li>Bachelor’s degree preferred or equivalent experience; typically 8+ years of industry experience; industry designation relevant to the role preferred.</li>\n<li>Recognized authority in negotiating highly complex claims; shapes and implements best practices.</li>\n<li>Fluent in Xactimate usage with level 3 certification or the ability to achieve.</li>\n<li>Strong knowledge of local geography, regulations, and public safety agencies, as well as the ability to build rapport with insureds and navigate the insurance and legal climate. Strong working knowledge of applicable statues, regulations, case law, and third-party legal liability concepts.</li>\n<li>Skilled in negotiation and developing strategies to influence outcomes. Demonstrates sound judgment and decision-making, including litigation and compliance matters.</li>\n<li>Expert-level insurance knowledge; deep understanding of legal and regulatory frameworks.</li>\n<li>Communicates clearly and effectively in both verbal and written formats across a variety of situations. Selects appropriate communication channels and consistently demonstrates empathy toward all stakeholders.</li>\n<li>Highly organized with the ability to manage complex workflows and project work. Demonstrates strong time management and desk management skills.</li>\n<li>Makes informed decisions based on thorough analysis of complex issues. Evaluates risks and outcomes, acts independently within authority, and identifies patterns in claims to support resolution strategies.</li>\n<li>Ability to collaborate with internal and external experts, including legal, underwriting, and other stakeholders, to ensure thorough evaluation.</li>\n<li>Designs empathetic customer service strategies; recognized for exceptional service.</li>\n<li>Ability to quickly assess customer concerns and anticipate questions, communicate and translate complex and technical terms clearly with easily understood language; deliver difficult messages when needed.</li>\n<li>Skilled in using claims systems and Microsoft Office Suite.</li>\n<li>Ability to use a personal computer and other standard office equipment.</li>\n<li>Ability to sit and/or stand for extended periods.</li>\n<li>Required to work on-site as needed.</li>\n<li>Ability to travel as necessary.</li>\n<li>Ability to work in a fast paced, changing or stressful environment.</li>\n<li>Ability to perform work in a noisy/loud work environment.</li>\n<li>May be required to have and maintain sufficient home-based internet connection.</li>\n<li>Ability to operate a motor vehicle 4-5 hours per day and to get in and out of the vehicle numerous times during the day.</li>\n<li>Ability to load and unload equipment and supplies weighing up to 30 pounds from a motor vehicle as needed to perform field work.</li>\n<li>Ability to bend, walk, and climb for several consecutive hours while inspecting damaged buildings, often with utilities turned off or inoperable.</li>\n<li>Ability to use a ladder safely to get on and off roofs and maintain balance while inspecting roofs.</li>\n<li>Ability to perform field work in adverse weather.</li>\n</ul><p>This job posting provides cursory examples of some of the job duties associated with this position. The examples provided are not complete, and the position may entail other essential and job-related functions and responsibilities that employees will be required to perform.</p><h3>CAREER DEVELOPMENT:</h3><p>It’s not just a job, it’s a career, and we are here to support you every step of the way. We want you to be successful and fulfilled. Through on-the-job experiences, personalized coaching and our robust learning and development programs, we encourage you – at every level – to grow and develop.</p><h3>BENEFITS:</h3><p>We offer comprehensive benefits to help you be healthy, build financial security, and balance work and home life. At The Hanover, you’ll enjoy what you do and have the support you need to succeed.</p><h3>Benefits include:</h3><ul>\n<li>Medical, dental, vision, life, and disability insurance</li>\n<li>401K with a company match</li>\n<li>Tuition reimbursement</li>\n</ul><h3>• PTO</h3><ul>\n<li>Company paid holidays</li>\n<li>Flexible work arrangements</li>\n<li>Cultural Awareness Day in support of IDE</li>\n<li>On-site medical/wellness center (Worcester only)</li>\n<li>Click here for the full list of Benefits</li>\n</ul><h3>EEO statement:</h3><p>The Hanover values diversity in the workplace and among our customers. The company provides equal opportunity for employment and promotion to all qualified employees and applicants on the basis of experience, training, education, and ability to do the available work without regard to race, religion, color, age, sex/gender, sexual orientation, national origin, gender identity, disability, marital status, veteran status, genetic information, ancestry or any other status protected by law.</p><p>Furthermore, <a href=\"https://himalayas.app/companies/the-hanover-insurance-group\">The Hanover Insurance Group</a> is committed to providing an equal opportunity workplace that is free of discrimination and harassment based on national origin, race, color, religion, gender, ancestry, age, sexual orientation, gender identity, disability, marital status, veteran status, genetic information or any other status protected by law.”</p><p>As an equal opportunity employer, Hanover does not discriminate against qualified individuals with disabilities. Individuals with disabilities who wish to request a reasonable accommodation to participate in the job application or interview process, or to perform essential job functions, should contact us at: and include the link of the job posting in which you are interested.</p><h3>Privacy Policy:</h3><p>To view our privacy policy and online privacy statement, click here.</p><p>Applicants who are California residents: To see the types of information we may collect from applicants and employees and how we use it, please click here.</p><h3>Compensation:</h3><p>The target hiring range for this role may vary based on geographic location and other factors, including merit or performance, demonstrated proficiency, skills for the role, education, travel requirements, and experience. Additional compensation may include an annual bonus (which could take the form of a general bonus, sales incentive, or short-term incentive), long-term incentive or spot recognition awards. The posted range reflects our ability to hire at different position titles and levels depending on background and experience.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912121,
+            "expiryDate": 1795096120,
+            "applicationLink": "https://himalayas.app/companies/the-hanover-insurance-group/jobs/sr-technical-property-adjuster",
+            "guid": "https://himalayas.app/companies/the-hanover-insurance-group/jobs/sr-technical-property-adjuster"
+        },
+        {
+            "title": "Join our Talent Community!",
+            "excerpt": "We're an award-winning data, media and tech consultancy and a leading Google and Adobe partner that helps brands and agencies think beyond clicks and conversions to unlock new opportunities for growth.",
+            "companyName": "Adswerve, Inc.",
+            "companySlug": "adswerve-inc",
+            "companyLogo": "https://cdn-images.himalayas.app/rmdlo8xwbr3aekl1t6r9knv8i4e3",
+            "employmentType": "Full Time",
+            "minSalary": null,
+            "maxSalary": null,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Mid-level"
+            ],
+            "currency": null,
+            "locationRestrictions": [
+                "United States"
+            ],
+            "timezoneRestrictions": [
+                -10,
+                -9,
+                -8,
+                -7,
+                -6,
+                -5,
+                14
+            ],
+            "categories": [
+                "Digital-Marketing",
+                "Technology-Consulting",
+                "Media-Planning",
+                "Join-Our-Talent-Network!",
+                "Talent-Community",
+                "Join-Our-Talent-Pipeline!",
+                "We-Are-Always-Looking-For-Talent",
+                "Talent-Pool:-Apply-To-Be-Considered-For-Future-Opportunities",
+                "Join-Druva'S-Talent-Community",
+                "Tech-Talent-Community",
+                "IT-Talent-Community"
+            ],
+            "parentCategories": [],
+            "description": "<div class=\"content-intro\"><p>We're an award-winning data, media and tech consultancy and a leading Google and Adobe partner that helps brands and agencies think beyond clicks and conversions to unlock new opportunities for growth. We thrive on rolling up our sleeves and digging into the tough stuff for our 800+ clients. And we love getting them the most ROI from their digital marketing. If you’re up for the challenge, join us. Let’s move fearlessly forward together.</p></div><h3>Don’t see what you’re looking for?</h3><p>If you love collaborating with others and enjoy creating solutions to challenges using data-driven insights, we’d love for you to join our team! Don’t see an open position that could be a fit at this time? Fill out this general application, and if a fitting role becomes available that meets your background, a member of our recruiting team will reach out!</p><p><em>Please note: This post is not linked to a specific job. If you do not see any postings applicable to your skill set, please apply here to be notified about new roles that may be a good fit for you. You become a member of our talent community by filling out our general application, which means you’ll be among the first candidates we review for each applicable opening we have.</em></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912121,
+            "expiryDate": 1795096120,
+            "applicationLink": "https://himalayas.app/companies/adswerve-inc/jobs/join-our-talent-community",
+            "guid": "https://himalayas.app/companies/adswerve-inc/jobs/join-our-talent-community"
+        },
+        {
+            "title": "Regulatory Specialist 2",
+            "excerpt": "Position Title:This position is a subject matter expert in global medical device and quality system regulations and is responsible for regulatory strategy and planning, authoring and submitting regulatory applications, assessing product design, manufacturing, labeling and quality system changes, authoring change impact assessments, and ensuring product labeling documentation, labels, promotional material, and product claims are accurate and compliant with global regulations.",
+            "companyName": "EXALTA Group",
+            "companySlug": "exalta-group",
+            "companyLogo": "https://cdn-images.himalayas.app/a6mpxq133ha0og4lmclah5jtos93",
+            "employmentType": "Full Time",
+            "minSalary": null,
+            "maxSalary": null,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Mid-level"
+            ],
+            "currency": null,
+            "locationRestrictions": [
+                "United States"
+            ],
+            "timezoneRestrictions": [
+                -10,
+                -9,
+                -8,
+                -7,
+                -6,
+                -5,
+                14
+            ],
+            "categories": [
+                "Regulatory-Affairs",
+                "Regulatory-Specialist",
+                "Medical-Device-Regulatory-Affairs",
+                "Quality-Assurance",
+                "Regulatory-Compliance",
+                "Regulatory-Affairs-Specialist-II",
+                "Regulatory-Affairs-Specialist",
+                "Regulatory-Review-Specialist",
+                "FDA-Regulatory-Specialist"
+            ],
+            "parentCategories": [
+                "Developer",
+                "Healthcare"
+            ],
+            "description": "<div>\n<h3>Position Title<strong>:</strong>\n</h3>\n<p><strong>This position is a subject matter expert in global medical device and quality system regulations and is responsible for regulatory strategy and planning, authoring and submitting regulatory applications, assessing product design, manufacturing, labeling and quality system changes, authoring change impact assessments, and ensuring product labeling documentation, labels, promotional material, and product claims are accurate and compliant with global regulations. The Specialist will ensure adherence to company policy and procedures and will assist in maintaining quality control processes. This position will help the organization maximize the number of patients served while maintaining a high level of quality and safety through the support of the business functions.</strong></p>\n<h3><strong>RESPONSIBILITIES:</strong></h3>\n<div><ul>\n<li><strong>Provides regulatory support to product development and business teams including preparation of regulatory opinion documents, coordination of labeling activities, and review/approval of design control documentation, risk management reports, technical protocols/reports, clinical documentation and other outputs of product development.</strong></li>\n<li><strong>Prepares/writes, submits, and manages global regulatory applications (including MDSAP markets, EU, and UK) as well as internal regulatory file documentation. Supports distributors and business partners in securing and maintaining regulatory clearances.</strong></li>\n<li><strong>Maintains systems for tracking current projects and for projection of future activity loads.</strong></li>\n<li><strong>Acts as company representative, developing and maintaining positive relationships with global regulatory agencies and business partners through oral and written communications.</strong></li>\n<li><strong>Works professionally and cooperatively with cross-functional teams such as research and development, operations, quality, microbiology, packaging, medical affairs, and clinical affairs to ensure project success.</strong></li>\n<li><strong>Assesses product design, labeling, quality system, manufacturing, and material changes for regulatory impact. Communicates changes effectively throughout the organization. Authors key portions of company responses to proposed standards, directives, policies and legislation regarding company products and systems.</strong></li>\n<li><strong>Develops, processes, and maintains assigned departmental procedures, work instructions, and forms, and facilities training. Reviews and supports creation/updates of labeling procedures.</strong></li>\n<li><strong>Supports the design, development, review, and approval of product labels, label items, advertising/promotional materials and product claims to assure accuracy, consistency and compliance to global regulatory requirements, as well as company and customer requirements. This includes verification of labels and advertising/promotional materials, and creation, verification, review, and processing of instructions for use.</strong></li>\n<li><strong>Monitors and assesses changes to global regulatory regulations, directives, standards and guidance requirements (regulatory intelligence assessment). Manage project teams for completion of required activities to ensure compliance.</strong></li>\n<li><strong>Supports regulatory aspects of the quality system and product non-conformities and leads assigned corrective and preventive action activities.</strong></li>\n<li><strong>Front-room participation in internal audits. Back-room participation in external audits.</strong></li>\n</ul></div>\n<p><strong>This is not an exhaustive list of duties or functions and may not necessarily comprise all essential functions.</strong></p>\n<h3><strong>EDUCATION/EXPERIENCE REQUIRED AND/OR PREFERRED:</strong></h3>\n<div><ul>\n<li><strong>A minimum of a bachelor’s degree in a scientific or technical discipline, preferably in regulatory, engineering, or biological science plus 3 or more years of relevant experience; in lieu of degree, 5 or more years of relevant experience may suffice.</strong></li>\n<li><strong>RAC certification(s) a plus</strong></li>\n</ul></div>\n<h3><strong>KNOWLEDGE, SKILLS, AND ABILITIES:</strong></h3>\n<h3><strong>Technical Competencies</strong></h3>\n<div><ul>\n<li><strong>Computer Skills - Skilled with computers, takes advantage of new technology, learns new tools quickly, uses technology to enhance job performance</strong></li>\n<li><strong>Budget - Uses resources efficiently, strives to reduce cost</strong></li>\n<li><strong>Innovation - Creative, offers new ideas, amenable to change, risk taker</strong></li>\n</ul></div>\n<div><ul><li><strong>Job Knowledge - Understands facets of job, aware of duties and responsibilities, keeps job knowledge current. Strong understanding of other functional items including product development, design controls and risk management. <strong>Strong understanding of medical terminology, regulations, and guidelines related to medical devices and quality systems including FDA’s Quality Management System Regulation (QMSR), MDD 93/42/EEC, MDR 2017/745, and ISO 13485.</strong></strong></li></ul></div>\n<div><ul>\n<li><strong>Organization Skills - Information organized and accessible, maintains efficient workspace, manages time well</strong></li>\n<li><strong>Product Expertise - Knows product features, understands marketplace, shares expertise with others</strong></li>\n<li><strong>Professional Development - Seeks to identify one’s self-improvement opportunities at work and takes appropriate action to address</strong></li>\n<li><strong>Project Management - Monitors status of projects, thoroughly deals with project details, holds project owners accountable, delivers clear, accurate depiction of status</strong></li>\n<li><strong>Quality - Strives to eliminate errors, accurate work is a priority, seeks opportunities to improve product/services</strong></li>\n<li><strong>Technical Skills - Maintains understanding of technical processes/equipment, uses technology to increase performance/productivity</strong></li>\n</ul></div>\n<h3><strong>Behavioral &amp; Basic Skill Competencies</strong></h3>\n<div><ul>\n<li><strong>Adaptability - Adapts to change, open to new ideas and responsibilities</strong></li>\n<li><strong>Communication – Communicates proficiently (written and verbal), delivers presentations, has good listening skills</strong></li>\n<li><strong>Conflict Management - Good listener, committed to finding solution to problems, works well with difficult people</strong></li>\n<li><strong>Customer Focus - Working cooperatively with internal and external customers in a manner that demonstrates a clear commitment to their needs and success</strong></li>\n<li><strong>Decision Making - Able to reach decisions, takes thoughtful approach when considering options, seeks input from others, makes difficult decisions</strong></li>\n<li><strong>Dependability - Meets deadlines, works independently, accountable, maintains focus, punctual, good attendance record</strong></li>\n<li><strong>Details – High attention to detail</strong></li>\n<li><strong>Ethics - Honest, accountable, maintains confidentiality</strong></li>\n<li><strong>Initiative - Takes action, seeks new opportunities, strives to see projects to completion</strong></li>\n<li><strong>Interpersonal Skills - Builds strong relationships, is flexible/adaptable, works well with others, solicits feedback</strong></li>\n<li><strong>Problem Solving/Critical Thinking - Strives to understands contributing factors, works to resolve complex situations</strong></li>\n<li><strong>Productivity - Manages workload, works efficiently, meets goals and objectives</strong></li>\n<li><strong>Results Driven - Defines appropriate goals, works toward achieving goals, articulates vision and steps for achievement.</strong></li>\n<li><strong>Results/Productivity - Working in a productive, dependable, and efficient manner to produce high quality results in accordance with deadlines and other expectations.</strong></li>\n<li><strong>Self-Development - Looks for opportunities to increase knowledge, works to increase responsibility, strives to achieve personal goals</strong></li>\n<li><strong>Sense of Urgency - Meets deadlines, establishes appropriate priority, gets the job done in a timely manner, able to work under pressure</strong></li>\n<li><strong>Strategic Thought - Works to establish and articulate visions, shows creativity when defining solutions</strong></li>\n<li><strong>Teamwork - Demonstrating high levels of teamwork and ability to work cross-functionally</strong></li>\n</ul></div>\n<div><p><strong>This position requires the use of personal protective equipment during various tasks/activities including but not limited to scrubs, gloves, masks, safety glasses, and safety shoes.</strong></p></div>\n<h3>Activity Requirements and Percentage of Time</h3>\n<h3>NOT AT ALL (0%)</h3>\n<h3>OCCASIONAL (1-33%)</h3>\n<h3>FREQUENT</h3>\n<p></p>\n<p><strong>(34-66%)</strong></p>\n<h3>CONSTANT</h3>\n<p></p>\n<p><strong>(67-100%)</strong></p>\n<h3>Climbing</h3>\n<h3>X</h3>\n<h3>Bending</h3>\n<h3>X</h3>\n<h3>Kneeling/Crawling with Force</h3>\n<h3>X</h3>\n<h3>Pulling</h3>\n<h3>X</h3>\n<h3>Reaching Above Head</h3>\n<h3>X</h3>\n<h3>Twisting at Waist</h3>\n<h3>X</h3>\n<h3>Lift above Shoulders</h3>\n<h3>X</h3>\n<h3>Lift from Floor Level</h3>\n<h3>X</h3>\n<p><strong>Working Conditions of a Manufacturing Environment or Potential Hazards Include Exposure To:</strong></p>\n<h3>NOT AT ALL (0%)</h3>\n<h3>OCCASIONAL (1-33%)</h3>\n<h3>FREQUENT (34-66%)</h3>\n<h3>CONSTANT (67-100%)</h3>\n<h3>Hazardous Chemicals</h3>\n<h3>X</h3>\n<h3>Extreme Conditions (hot or cold)</h3>\n<h3>X</h3>\n<h3>Sharp Objects (Saw Blades or other)</h3>\n<h3>X</h3>\n<h3>Moving Mechanical Parts</h3>\n<h3>X</h3>\n<h3>Unprotected Heights</h3>\n<h3>X</h3>\n<h3>Loud Environment</h3>\n<h3>X</h3>\n<h3>Latex Exposure</h3>\n<h3>X</h3>\n<h3>Blood or Body Fluids</h3>\n<h3>X</h3>\n<h3>Communicable Diseases</h3>\n<h3>X</h3>\n<h3><strong>Physical Requirements:</strong></h3>\n<div><ul>\n<li><strong>Light work: Physically handle objects up to 20 lbs. occasionally.</strong></li>\n<li><strong>Sit for 8 hours/day</strong></li>\n<li><strong>Stand for 1 hour/day</strong></li>\n<li><strong>Perform repetitive tasks/motions</strong></li>\n<li><strong>Good manual dexterity</strong></li>\n<li><strong>Hear alarms/telephone/normal speaking volume</strong></li>\n<li><strong>Good eye/hand/foot coordination</strong></li>\n<li><strong>Clarity of vision</strong></li>\n</ul></div>\n<h3><strong>Work Environment:</strong></h3>\n<div><ul>\n<li><strong>Office Setting - Open layout with assigned workstation or office</strong></li>\n<li><strong>Remote</strong></li>\n</ul></div>\n</div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912038,
+            "expiryDate": 1795096037,
+            "applicationLink": "https://himalayas.app/companies/exalta-group/jobs/regulatory-specialist-2-9600590053",
+            "guid": "https://himalayas.app/companies/exalta-group/jobs/regulatory-specialist-2-9600590053"
+        },
+        {
+            "title": "Accountant",
+            "excerpt": "This is a remote position. We are looking for a detail-oriented and experienced Accountant to join our team.",
+            "companyName": "Expert VA",
+            "companySlug": "expert-va",
+            "companyLogo": "https://cdn-images.himalayas.app/vgf9cixsaundj5r0rb74k1m28qtl",
+            "employmentType": "Full Time",
+            "minSalary": null,
+            "maxSalary": null,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Mid-level"
+            ],
+            "currency": null,
+            "locationRestrictions": [
+                "United States"
+            ],
+            "timezoneRestrictions": [
+                -10,
+                -9,
+                -8,
+                -7,
+                -6,
+                -5,
+                14
+            ],
+            "categories": [
+                "Financial-Services",
+                "Accounting",
+                "Bookkeeping",
+                "Financial-Reporting",
+                "Real-Estate-Accounting",
+                "Accountant",
+                "Financial-Accountant",
+                "Corporate-Accountant"
+            ],
+            "parentCategories": [
+                "Finance"
+            ],
+            "description": "<h3>This is a remote position.</h3><div>We are looking for a detail-oriented and experienced Accountant to join our team. The ideal candidate will have a solid background in U.S. accounting principles, with extensive experience in the real estate industry, including financial reporting, reconciliations, and compliance. <div>Responsibilities: <div>Maintain accurate financial records, process invoices, payments, and payroll, and reconcile bank and credit card statements to ensure accuracy and compliance. <div>Prepare detailed financial reports, generate insights on financial activities, and create charts, reports, and presentations that effectively communicate findings to executives and stakeholders. <div>Analyze key metrics, identify trends, and research market conditions, competitor strategies, and industry benchmarks to support strategic planning. <div>Provide actionable recommendations to optimize operations, increase revenue, and improve profitability. <div>Utilize advanced Excel functions for financial analysis and reporting while building and maintaining spreadsheets to streamline financial processes. <div>Ensure compliance with financial regulations and company policies, contributing to efficient and transparent financial management. <br><h3>Requirements</h3>\n<h3>Qualifications:<ul>\n<li><p>Bachelor's degree in Accounting, Finance, or related field.</p></li>\n<li><p>Proven experience as a Bookkeeper or similar role</p></li>\n<li><p>Proficiency in QuickBooks Pro and Xero (certifications preferred)</p></li>\n<li><p>Strong understanding of accounting principles and financial reporting</p></li>\n<li><p>Excellent attention to detail and organizational skills</p></li>\n<li><p>Ability to work independently and meet deadlines</p></li>\n<li><p>Ability to prioritize tasks and work independently in a fast-paced environment.</p></li>\n</ul>\n<br>\n</h3>\n<h3>Benefits</h3>\n<h3>Benefits:<ul>\n<li><h3>Fun working environment</h3></li>\n<li><h3>PTO</h3></li>\n<li><h3>HMO</h3></li>\n<li><h3>And More!</h3></li>\n</ul>\n</h3>\n<p>Join our team and play a key role in shaping the future of our organization by attracting top talent and fostering a culture of excellence. Apply now to embark on an exciting career journey with us!</p>\n<br>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912024,
+            "expiryDate": 1795096023,
+            "applicationLink": "https://himalayas.app/companies/expert-va/jobs/accountant",
+            "guid": "https://himalayas.app/companies/expert-va/jobs/accountant"
+        },
+        {
+            "title": "Manager, Associate Relations Investigator",
+            "excerpt": "Manager, Associate Relations Investigator (Remote)Are you looking for a role focused on consulting with the business to assist in problem solving?",
+            "companyName": "Capital One National Association",
+            "companySlug": "capital-one-national-association",
+            "companyLogo": "https://cdn-images.himalayas.app/0xrqbzidfi0dp9q3a24tnmnd1ds6",
+            "employmentType": "Full Time",
+            "minSalary": 138100,
+            "maxSalary": 157700,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Manager"
+            ],
+            "currency": "USD",
+            "locationRestrictions": [
+                "United States"
+            ],
+            "timezoneRestrictions": [
+                -10,
+                -9,
+                -8,
+                -7,
+                -6,
+                -5,
+                14
+            ],
+            "categories": [
+                "Human-Resources-Investigations",
+                "Employee-Relations",
+                "HR-Management",
+                "Associate-Relations",
+                "Employment-Investigations",
+                "Investigations-Manager",
+                "Associate-Relations-Manager",
+                "Employee-Relations-Investigator"
+            ],
+            "parentCategories": [],
+            "description": "Manager, Associate Relations Investigator (Remote)<p>Are you looking for a role focused on consulting with the business to assist in problem solving? Do you like to have strategic impact and work cross functionally in a dynamic environment? Our HR Associate Relations team is looking for an individual contributor who is motivated, willing to take on new and challenging opportunities, and take initiative to make our most important asset - our people - work smoothly.</p><p>The Manager, Associate Relations – Investigations Team position investigates all types of employment complaints and provides proactive recommendations to HR business partners and business leaders on employee relations issues. </p><p>Here’s what you’ll need to be successful:</p><ul>\n<li><p>Can assess when and how to make tradeoffs between speed and quality; motivated self-starter</p></li>\n<li><p>Loves to break down complex problems and artfully push towards a solution</p></li>\n<li><p>Exceptionally strong written and verbal communication skills</p></li>\n<li><p>Ability to present complex topics in a clear, concise, and compelling manner</p></li>\n<li><p>Impeccable judgment and ability to balance the needs of the organization, leaders and associates. Know when to push and when to move on.</p></li>\n<li><p>Demonstrate an aptitude for learning in a fast-paced, ever-changing environment</p></li>\n<li><p>Strong sense of when to operate independently and when to seek support on an issue</p></li>\n<li><p>Successful candidates must be comfortable and prepared for an 'always-on' video environment</p></li>\n</ul><h3>Responsibilities:</h3><ul>\n<li><p>Investigate and resolve all types of employment complaints, including harassment, discrimination, retaliation, wage and hour issues, wrongful termination, etc. </p></li>\n<li><p>Resolve manager and associate issues by acting as a consultant/coach through providing guidance on conflict and dispute resolution</p></li>\n<li><p>Thoroughly document investigation plans, interviews, summaries and recommendations in a timely, high-quality manner</p></li>\n<li><p>Act as an objective and knowledgeable resource to work through challenging employment, performance and policy issues</p></li>\n<li><p>Tailor and deliver communications in an effective, measured way to help influence the right outcomes with stakeholders and mitigate risk </p></li>\n<li><p>Thoroughly investigate complaints, while using good judgment to analyze evidence and make recommendations</p></li>\n<li><p>Act as role model and champion for Capital One Values</p></li>\n<li><p>Participate in internal projects that improve investigative processes</p></li>\n</ul><p><i>We recognize that many life paths can contribute to interest in this role. We value all experience, whether gained in a classroom or through other paths, and invite everyone who meets the below requirements to apply for this role.</i></p><h3>Basic Qualifications:</h3><ul>\n<li><p>High School Diploma, GED or equivalent certification</p></li>\n<li><p>At least 3 years of Human Resources, Legal or Risk Management experience</p></li>\n<li><p>At least 3 years of investigation experience</p></li>\n</ul><h3>Preferred Qualifications:</h3><ul>\n<li><p>At least 5 years of experience working in a team corporate environment</p></li>\n<li><p>At least 5 years of Human Resources or Legal experience, focused on employment investigations</p></li>\n<li><h3>Human Resources certification</h3></li>\n<li><p>Experience conducting all types of employment investigations</p></li>\n<li><p>Knowledge of employment law and practices </p></li>\n</ul><p><i>At this time, Capital One will not sponsor an applicant for employment authorization for this position.</i></p><p>The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.</p>Remote (Regardless of Location): $138,100 - $157,700 for Manager, Associate RelationsRichmond, VA: $138,100 - $157,700 for Manager, Associate Relations<p>Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.</p>This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.<p>Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at theCapital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.</p>This role is expected to accept applications for a minimum of 5 business days.No agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws.  Capital One promotes a drug-free workplace.  Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.<p>If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at . All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.</p><p>For technical support or questions about Capital One's recruiting process, please send an email to </p><p>Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.</p><p>Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912024,
+            "expiryDate": 1795096023,
+            "applicationLink": "https://himalayas.app/companies/capital-one-national-association/jobs/manager-associate-relations-investigator",
+            "guid": "https://himalayas.app/companies/capital-one-national-association/jobs/manager-associate-relations-investigator"
+        },
+        {
+            "title": "Grant Writing Consultant Volunteer",
+            "excerpt": "GRANT WRITING CONSULTANT VOLUNTEERLocation: Remote, United States Position Type: Volunteer, Part-Time Are you ready to make a meaningful impact on the next generation and the future of our oceans?",
+            "companyName": "Aeon for Ocean",
+            "companySlug": "aeon-for-ocean",
+            "companyLogo": "https://cdn-images.himalayas.app/i0tydauhe0m4pr94yu481kdkqcnk",
+            "employmentType": "Volunteer",
+            "minSalary": null,
+            "maxSalary": null,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Mid-level"
+            ],
+            "currency": "USD",
+            "locationRestrictions": [
+                "United States"
+            ],
+            "timezoneRestrictions": [
+                -10,
+                -9,
+                -8,
+                -7,
+                -6,
+                -5,
+                14
+            ],
+            "categories": [
+                "Grant-writing",
+                "Nonprofit-Fundraising",
+                "Grant-Management",
+                "Proposal-Writing",
+                "Fund-Development",
+                "Grant-Writer",
+                "Non-Profit-Grant-Writer",
+                "Grant-Writing-Support",
+                "Grants-Writer",
+                "Grant-Writing-Associate",
+                "Grant-Proposal-Writer",
+                "Grant-Consultant",
+                "Nonprofit-Grant-Writing",
+                "Grants-Writing",
+                "Social-Impact"
+            ],
+            "parentCategories": [
+                "Social Impact"
+            ],
+            "description": "<img><h3>GRANT WRITING CONSULTANT VOLUNTEER</h3><p><strong>Location: </strong>Remote, United States</p><p><strong>Position Type: </strong>Volunteer, Part-Time</p><p>Are you ready to make a meaningful impact on the next generation and the future of our oceans? <a href=\"https://himalayas.app/companies/aeon-for-ocean\">Aeon for Ocean</a> is a volunteer-driven 501(c)(3) non-profit dedicated to educating and influencing the younger generation to take a leadership role in ocean conservation. Join us as a volunteer and be part of a passionate team that’s creating change by promoting “Kids teaching kids to lead the way in protecting the world’s oceans”. If this cause excites you as much as it does us, then apply today! You can learn more about our amazing mission here.</p><h3><em>Position Description:</em></h3><p>We are seeking a Grant Writing Consultant to join our organization. This role is responsible for assisting our team in increasing our grant readiness and competitively applying for and successfully managing grant funding.</p><h3><em>Your Impact on our Mission:</em></h3><p>This position is critical to our mission and the key responsibilities you will perform as a part of our Team include, but are not limited to:</p><ul>\n<li><p>Researching potential grants and funding sources</p></li>\n<li><p>Assisting in developing compelling letters of inquiry, proposals, and reports</p></li>\n<li><p>Establishing and maintaining an updated annual grants calendar</p></li>\n<li><p>Coordinating letters of support and writing proposals</p></li>\n<li><p>Working collaboratively with the Executive Director and other volunteer staff to gather information needed for grants and proposals</p></li>\n<li><p>Assisting with other fundraising projects as requested</p></li>\n</ul><h3><em>What You’ll Bring to the Team:</em></h3><p>Along with their passion for our mission, the successful candidate will possess the following qualifications:</p><ul>\n<li><p>Bachelor's degree or equivalent work experience</p></li>\n<li><p>Experience writing successful grants and proposals</p></li>\n<li><p>Excellent written and verbal communication and interpersonal skills</p></li>\n<li><p>Good judgment and ability to work independently</p></li>\n<li><p>Ability to work collaboratively with a diverse team</p></li>\n<li><p>Experience in fundraising is <strong><em>preferred</em></strong></p></li>\n<li><p>Prior experience with a non-profit organization is <strong><em>preferred</em></strong></p></li>\n<li><p>Location within the 48 contiguous United States is <strong><em>highly preferred</em></strong></p></li>\n</ul><p>Applicants must also have the ability to attend periodic meetings conducted during regular business hours in the Central Standard (CST) Time Zone. We are looking for someone who can dedicate a few hours per week, and can commit for at least 6 months (though we’d love to have you even longer)!</p><h3>Why Join our Team?</h3><p>This role will benefit you with hands-on experience in your field while you work alongside like-minded professionals who are also passionate about our mission. You’ll have the opportunity to develop valuable skills like teamwork, leadership, and project management. The hours are flexible and yo will have the opportunity to build valuable connections as you see your work come to life!</p><h3>How to apply:</h3><p>If interested in this position, please apply using the link on this page. We would love to hear from you! If you have any questions, please email .</p><p><em>As part of <a href=\"https://himalayas.app/companies/aeon-for-ocean\">Aeon for Ocean</a>'s standard process, some candidates might undergo a background verification check before an offer is extended. These verification checks will be conducted either by <a href=\"https://himalayas.app/companies/aeon-for-ocean\">Aeon for Ocean</a> directly or by a professional third-party firm at no charge to the applicant.</em></p><p><em><a href=\"https://himalayas.app/companies/aeon-for-ocean\">Aeon for Ocean</a> is an Equal Opportunity Organization. All qualified applicants will receive equal consideration without regard to any status or characteristic protected by law.</em></p><p><em>Upon </em><strong><em>successful</em></strong><em> completion of a minimum of six (6) months of service, a letter of recommendation will be provided to the volunteer upon his/her request.</em></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912011,
+            "expiryDate": 1795096009,
+            "applicationLink": "https://himalayas.app/companies/aeon-for-ocean/jobs/grant-writing-consultant-volunteer",
+            "guid": "https://himalayas.app/companies/aeon-for-ocean/jobs/grant-writing-consultant-volunteer"
+        },
+        {
+            "title": "Talent Acquisition Coordinator",
+            "excerpt": "RECRUITMENT ADMINISTRATION & COORDINATION • Manage the recruitment administration process for high volume vacancies across all brands.",
+            "companyName": "Satellite Office",
+            "companySlug": "satellite-office",
+            "companyLogo": "https://cdn-images.himalayas.app/oujslhfn0coab7vwj6ewuhocmqyu",
+            "employmentType": "Full Time",
+            "minSalary": null,
+            "maxSalary": null,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Entry-level",
+                "Mid-level"
+            ],
+            "currency": null,
+            "locationRestrictions": [
+                "Philippines"
+            ],
+            "timezoneRestrictions": [
+                8
+            ],
+            "categories": [
+                "Talent-Acquisition",
+                "Recruitment-Coordinator",
+                "HR-Coordinator",
+                "Staffing-Coordinator",
+                "Talent-Acquisition-Coordinator",
+                "Talent-Acquisition-Administrator",
+                "Talent-Acquisition-Associate",
+                "Talent-Acquisition-Assistant",
+                "Talent-Operations-Coordinator",
+                "Recruiting-Coordinator"
+            ],
+            "parentCategories": [
+                "Human Resources"
+            ],
+            "description": "<p>RECRUITMENT ADMINISTRATION &amp; COORDINATION</p><p>• Manage the recruitment administration process for high volume vacancies across all brands.</p><p>• Review and approve recruitment requisitions in accordance with agreed recruitment processes and approval requirements.</p><p>• Ensure requisitions contain the required information before progressing recruitment activity.</p><p>• Create and post job advertisements across approved advertising platforms.</p><p>• Ensure job advertisements are accurate, appropriately branded and aligned with approved position descriptions.</p><p>• Monitor active, closing and expired job advertisements and take appropriate action to ensure vacancies remain live and visible for the required recruitment period.</p><p>• Maintain accurate candidate and vacancy records within JobAdder.</p><p>• Update candidate statuses throughout the recruitment process, including unsuccessful, shortlisted, interview, resume submitted and other relevant stages.</p><p>• Ensure recruitment activity and candidate records are completed accurately and within agreed timeframes.</p><h3>CANDIDATE SCREENING &amp; MANAGEMENT</h3><ul>\n<li><p>Assist with the initial screening of applications against agreed recruitment criteria.</p></li>\n<li><p>Review candidate resumes and applications and identify candidates suitable for progression.</p></li>\n<li><p>Progress suitable candidates through the agreed recruitment workflow.</p></li>\n<li><p>Actively communicate with candidates throughout the recruitment process and ensure they are kept informed of next steps and engaged throughout the process.</p></li>\n<li><p>Advise candidates of the outcome of their application in a timely and professional manner.</p></li>\n<li><p>Respond to candidate queries and escalate more complex queries to the appropriate Talent Team member.</p></li>\n<li><p>Ensure candidates receive a consistent and positive recruitment experience regardless of brand, location or role.</p></li>\n<li><p>Monitor candidate activity and proactively follow up outstanding actions to prevent delays in the recruitment process.</p></li>\n</ul><h3>RECRUITMENT OPEN DAYS &amp; HIGH-VOLUME CAMPAIGNS</h3><p>•Coordinate recruitment Open Days and other high-volume retail recruitment initiatives.</p><p>•Support the Talent Team with candidate invitations, attendance tracking, interview scheduling and candidate communications.</p><p>•Maintain accurate Open Day and recruitment campaign trackers.</p><p>•Assist with candidate shortlisting and scheduling for high-volume recruitment campaigns.</p><p>•Support the coordination of recruitment activity across multiple locations and brands during peak periods, including Christmas Casual recruitment.</p><h3>PRE-EMPLOYMENT CHECKS</h3><p>•Coordinate and complete reference checks in accordance with Brandbank Group processes.</p><p>•Conduct employment verification checks where required.</p><p>•Request and follow up required candidate documentation, including passports, visas and evidence of work rights.</p><p>•Ensure required documentation is received, recorded and appropriately escalated where outstanding.</p><p>•Monitor pre-employment requirements and follow up candidates to ensure checks are completed within required timeframes.</p><p>•Escalate any concerns or exceptions to the appropriate Talent Team or HR representative.</p><h3>SERVICE LEVELS &amp; PROCESS MANAGEMENT</h3><p>•Manage candidates through the recruitment process to ensure agreed Service Level Agreements (SLAs) are consistently achieved.</p><p>•Monitor recruitment workflows and identify vacancies or candidates at risk of exceeding agreed timeframes.</p><p>•Proactively follow up Hiring Managers and Talent Team members where actions are outstanding.</p><p>•Escalate recruitment delays, candidate risks or process issues where required.</p><p>•Ensure recruitment processes are consistently applied across all brands and countries.</p><p>•Identify opportunities to improve recruitment administration, efficiency and candidate experience.</p><h3>REPORTING &amp; DATA</h3><p>•Maintain accurate recruitment data and reporting within JobAdder and other relevant systems.</p><p>•Prepare regular recruitment reports and updates on vacancy activity, candidate progress and recruitment outcomes.</p><p>•Monitor key recruitment metrics including vacancies, applications, candidate progression, timeframes and SLA performance.</p><p>•Maintain accurate recruitment trackers and campaign reports as required.</p><p>•Identify trends, issues or recruitment bottlenecks and escalate these to the Talent Acquisition Manager.</p><p>•Support the Talent Team with data and reporting for regular recruitment reviews and business updates.</p><h3>WORK HEALTH &amp; SAFETY</h3><p>•Demonstrate positive safety behaviours by cooperating and adhering to any reasonable safety instruction, policy or procedure</p><p>•Complete WHS induction and any prescribed WHS training.</p><p>•Prevent situations that may cause harm to you or others</p><h3>•Identify and report hazards</h3><p>•Maintain and leave a clean and tidy workplace</p><p>•Report any team member, customer, contractor or visitor injuries to your manager</p><h3>Qualifications:</h3><p>•Diploma or bachelor’s degree in human resources, Business Administration, Business Management or a related discipline is desirable.</p><h3>Experience:</h3><p>•Previous experience in recruitment, talent acquisition, recruitment coordination or high-volume hiring within Australia (New Zealand would be advantageous).</p><h3>•Retail fashion experience</h3><p>•Proven successful managing high volume vacancies and candidates simultaneously.</p><p>•Experience using an Applicant Tracking System (ATS), preferably JobAdder or a similar system.</p><p>•Ability to build strong stakeholder relationships</p><h3>Attributes:</h3><p>•Strong administrative and organisational skills</p><p>•Excellent attention to detail and accuracy</p><p>•Strong English speaking and written communication skills</p><p>•Confidence in communicating with candidates and internal stakeholders</p><p>•Ability to work to deadlines and agreed SLAs</p><p>•Strong follow-up skills and a proactive approach to outstanding actions</p><p>•Ability to prioritise workload and manage competing deadlines and problem solve</p><p>•Strong computer literacy and confidence in learning new systems and processes</p><p>•Ability to work independently while operating as part of a geographically dispersed Talent Team</p><p>•A strong commitment to candidate experience and service delivery.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789912001,
+            "expiryDate": 1795096000,
+            "applicationLink": "https://himalayas.app/companies/satellite-office/jobs/talent-acquisition-coordinator",
+            "guid": "https://himalayas.app/companies/satellite-office/jobs/talent-acquisition-coordinator"
+        },
+        {
+            "title": "Part-Time Faculty - Emergency Medical Care",
+            "excerpt": "Title: Part-Time Faculty - Emergency Medical Care Position Type:Part-Time Faculty Search Type: Internal - minimum 5 days Department: 25R000 - Justice, Safety & Military Science Division: 2R0000 - Academic Affairs Position Location: Remote Opportunities Driver Classification: Non-Driver FLSA: Exempt Schedule Type:Part Time, No Benefits (less than 20 hrs per week) Retirement: None Contact Person: Bill Young Job Summary/Basic FunctionsThe Department of Justice, Safety, & Military Science at Eastern Kentucky University invites applications for a part-time faculty position to teach courses in Emergency Medical Care.",
+            "companyName": "Eastern Kentucky University",
+            "companySlug": "eastern-kentucky-university",
+            "companyLogo": "https://cdn-images.himalayas.app/r1j3vglg2m0c01atyn7d9n7hz809",
+            "employmentType": "Part Time",
+            "minSalary": null,
+            "maxSalary": null,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Entry-level"
+            ],
+            "currency": null,
+            "locationRestrictions": [
+                "United States"
+            ],
+            "timezoneRestrictions": [
+                -10,
+                -9,
+                -8,
+                -7,
+                -6,
+                -5,
+                14
+            ],
+            "categories": [
+                "Part-Time-Faculty",
+                "Emergency-Medical-Services",
+                "EMS-Instructor",
+                "Adjunct-Faculty",
+                "College-Faculty",
+                "Emergency-Medicine",
+                "Part-Time-Professor",
+                "Emergency-Medicine-Education",
+                "Part-Time-University-Instructor",
+                "Education",
+                "Healthcare"
+            ],
+            "parentCategories": [],
+            "description": "<p><strong>Title:</strong> Part-Time Faculty - Emergency Medical Care</p><p><strong>Position Type:</strong>Part-Time Faculty</p><p><strong>Search Type:</strong> Internal - minimum 5 days</p><p><strong>Department:</strong> 25R000 - Justice, Safety &amp; Military Science</p><p><strong>Division:</strong> 2R0000 - Academic Affairs</p><p><strong>Position Location:</strong> Remote Opportunities</p><p><strong>Driver Classification:</strong> Non-Driver</p><p><strong>FLSA:</strong> Exempt</p><p><strong>Schedule Type:</strong>Part Time, No Benefits (less than 20 hrs per week)</p><p><strong>Retirement:</strong> None</p><p><strong>Contact Person:</strong> Bill Young</p><h3>Job Summary/Basic Functions</h3><p>The Department of Justice, Safety, &amp; Military Science at <a href=\"https://himalayas.app/companies/eastern-kentucky-university\">Eastern Kentucky University</a> invites applications for a part-time faculty position to teach courses in Emergency Medical Care.<br><br>Must be a state licensed or NREMT certified paramedic.<br><br>Must be endorsed by KBEMS as a paramedic able to teach all levels of EMS courses.<br><br>To be considered to teach undergraduate level courses, applicants should hold an earned Must hold doctoral/terminal (for EMC masters is terminal)<br>OR masters in teaching discipline or related field<br>OR master’s degree with a concentration in teaching discipline (minimum of 18 graduate semester hours in the teaching discipline).<br><br>Part-time faculty may teach up to nine credit hours, depending on departmental needs.<br><br>Applicants will be screened and contacted as departmental needs for part-time faculty arise. Applications will be accepted on an ongoing basis.<br><br>Unofficial transcripts are acceptable at the time of application. Official transcripts are required at the time of the position offer and as a condition of employment.</p><h3>Minimum Qualifications</h3><ul>\n<li>Must hold doctoral/terminal (for EMC masters is terminal)</li>\n<li>OR masters in teaching discipline or related field</li>\n<li>OR master’s degree with a concentration in teaching discipline (minimum of 18 graduate semester hours in the teachingdiscipline)</li>\n<li>Paramedic with EMS educator experience. Preference for KBEMS credentialed EMS Level 2 or 3 Educator.</li>\n</ul><h3>Job Duties:</h3><ul>\n<li>Plan and develop EMS licensure class lesson plans - (Essential)</li>\n<li>Deliver all content based upon the National Education Standards for EMS - (Essential)</li>\n<li>Evaluate the competency of students from an affective, cognitive and psychmotor perspective. - (Essential)</li>\n</ul><p><strong>Sponsorship:</strong>This position is not eligible for visa sponsorship.</p><p><strong>Open Until Filled:</strong>Yes</p><h3>EEO Statement</h3><p><a href=\"https://himalayas.app/companies/eastern-kentucky-university\">Eastern Kentucky University</a> is an Equal Opportunity employer and educational institution and does not discriminate on the basis of age (40 and over), race, color, religion, sex, sexual orientation, gender identity, gender expression, pregnancy, ethnicity, disability, national origin, veteran status, or genetic information in the admission to, or participation in, any educational program or activity (e.g., athletics, academics and housing) which it conducts or any employment policy or practice.</p><h3>Background Check Statement</h3><p>Offers of employment are contingent upon a satisfactory background check.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789911986,
+            "expiryDate": 1795095986,
+            "applicationLink": "https://himalayas.app/companies/eastern-kentucky-university/jobs/part-time-faculty-emergency-medical-care",
+            "guid": "https://himalayas.app/companies/eastern-kentucky-university/jobs/part-time-faculty-emergency-medical-care"
+        },
+        {
+            "title": "Sr. SEO Specialist",
+            "excerpt": "Important Notice for Applicants: At Bixal, we want to ensure a transparent and secure application process for all candidates.",
+            "companyName": "Bixal",
+            "companySlug": "bixal",
+            "companyLogo": "https://cdn-images.himalayas.app/kjmvdwge2gazj0jrb4xj3tmhsgdv",
+            "employmentType": "Full Time",
+            "minSalary": 100000,
+            "maxSalary": 110000,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Senior"
+            ],
+            "currency": "USD",
+            "locationRestrictions": [
+                "United States"
+            ],
+            "timezoneRestrictions": [
+                -10,
+                -9,
+                -8,
+                -7,
+                -6,
+                -5,
+                14
+            ],
+            "categories": [
+                "SEO-Specialist",
+                "SEO",
+                "Senior-SEO-Specialist",
+                "Digital-Strategy",
+                "Content-Strategy",
+                "Digital-Marketing",
+                "Organic-Search-Strategy",
+                "Search-Marketing",
+                "Senior-SEO-Strategist",
+                "Senior-SEO",
+                "Senior-SEO-and-GEO-Specialist"
+            ],
+            "parentCategories": [
+                "Marketing"
+            ],
+            "description": "<img alt=\"<a href='https://himalayas.app/companies/bixal'>Bixal</a>_Logo_Black_Margin-Tight.png\" title=\"\" width=\"185\" height=\"76\"><p><strong>Important Notice for Applicants:</strong><br>At <a href=\"https://himalayas.app/companies/bixal\">Bixal</a>, we want to ensure a transparent and secure application process for all candidates. Official communication will come from an email address ending in @bixal.com or from @bixal.na.teamtailor-mail.com. Messages from other sources may be fraudulent, and you should exercise care to avoid any links or attachments included.<br><br><a href=\"https://himalayas.app/companies/bixal\">Bixal</a> will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. <br><br><strong>Need Assistance or a Reasonable Accommodation?If you need assistance or a reasonable accommodation to complete your application, we're here to help. Please reach out to us at  and let us know how we can support you. You do not need to share personal details or disclose the nature of your request. You can expect a response from a team member within 24 hours during the regular work week and on the next operating day during the weekend or holidays.</strong></p><h3><strong>Why <a href=\"https://himalayas.app/companies/bixal\">Bixal</a>?</strong></h3><p><strong><a href=\"https://himalayas.app/companies/bixal\">Bixal</a> is a consulting company headquartered in Fairfax, VA, working alongside governments and organizations to help them deliver better services and experiences to the communities they serve. Using evidence-based knowledge and technology, <a href=\"https://himalayas.app/companies/bixal\">Bixal</a> empowers clients to deliver on their missions more effectively by fostering a culture of learning and continuous improvement.</strong></p><h3><strong>Our values:</strong></h3><ul>\n<li><p><strong><strong>People-First</strong>: Emphasizing the importance of people in all aspects of work.</strong></p></li>\n<li><p><strong><strong>Collaboration and Transparency</strong>: Valuing teamwork and open communication.</strong></p></li>\n<li><p><strong><strong>Growth Mindset</strong>: Encouraging innovation and continuous improvement.</strong></p></li>\n<li><p><strong><strong>Creating Lasting Impact</strong>: Focusing on meaningful outcomes and positive change.</strong></p></li>\n</ul><h3><strong>About the role:</strong></h3><p><strong><a href=\"https://himalayas.app/companies/bixal\">Bixal</a> is seeking a Senior SEO Specialist for a project that supports a large-scale outreach and engagement effort, delivering strategic communications, content and creative services, digital strategy, and audience engagement across public-facing websites, applications, and social media platforms. The work is paired with the IT, cybersecurity, and data operations needed to keep that digital presence secure, reliable, and available around the clock. The program's mission is to ensure the intended audience receives timely, accurate, and accessible information about the programs, services, and policies that affect them — with content and platforms built to scale, adapt to changing needs, and hold up to federal compliance and security standards.</strong></p><p><strong>The Senior SEO Specialist owns the program's search engine optimization strategy and execution, driving organic visibility and search performance across all public-facing websites and applications. This is a senior, largely autonomous role responsible for setting SEO benchmarks, running technical and content-based optimization programs, and advising Government stakeholders and content, communications, and social media teams on how to maximize discoverability — from traditional keyword and technical SEO through emerging areas like schema markup and voice search.</strong></p><p><strong>This is a full-time position contingent on contract award by our client, with a defined performance period of one year with two one-year option periods. This role offers you a unique opportunity to make a meaningful impact on a project that aligns with <a href=\"https://himalayas.app/companies/bixal\">Bixal</a>’s mission of delivering innovative, human-centered solutions. While the role has a fixed duration, we are committed to transparency and collaboration, keeping you informed about contract updates and new opportunities. At <a href=\"https://himalayas.app/companies/bixal\">Bixal</a>, we support your professional journey, ensuring your experience reflects our inclusive, purpose-driven culture and prepares you for future success.</strong></p><h3><strong>Location</strong></h3><p><strong>This role can work remotely from anywhere in the USA. You must be legally authorized to work in the US.  <a href=\"https://himalayas.app/companies/bixal\">Bixal</a> does not provide visa sponsorship.</strong></p><h5><strong>Compensation:</strong></h5><p><strong>The salary range for this role is $100,000 – $110,000. In the spirit of transparency, most offers tend to land near the midpoint of the range. We make compensation decisions thoughtfully, considering your experience, the skills you bring, and our commitment to internal equity. Fairness and transparency are core to how we operate.</strong></p><h3><strong>Responsibilities:</strong></h3><ul>\n<li><p><strong>Own the end-to-end SEO program, conducting regular performance analyses benchmarked against Federal, DoD, and industry best practices, and delivering actionable recommendations to leadership.</strong></p></li>\n<li><p><strong>Establish SEO baseline metrics and KPIs and report progress against targets on an ongoing basis.</strong></p></li>\n<li><p><strong>Analyze search engine visibility, user behavior, conversion rates, and technical SEO health (e.g., page load speed, crawl/site errors), driving continuous optimization based on findings.</strong></p></li>\n<li><p><strong>Conduct regular SEO validation checks (e.g., broken links, HTTP errors, and other site performance issues), coordinating remediation with technical stakeholders.</strong></p></li>\n<li><p><strong>Lead keyword research focused on user intent and long-tail search behavior; design and implement internal linking, schema markup, and site-speed optimizations to improve organic rankings and click-through rates.</strong></p></li>\n<li><p><strong>Develop and execute link-building and content-promotion strategies (e.g., press releases, content syndication, partnerships) to build domain authority; extend SEO strategy to voice search and event-specific landing pages.</strong></p></li>\n<li><p><strong>Incorporate audience research and communications planning insights into keyword targeting and content-priority decisions.</strong></p></li>\n<li><p><strong>Contribute SEO-specific test scenarios and success metrics to usability testing efforts, translating findings into optimization recommendations.</strong></p></li>\n<li><p><strong>Advise across content strategy and lifecycle management on how SEO considerations should be embedded in planning and governance.</strong></p></li>\n<li><p><strong>Advise content and editorial teams during content development on SEO best practices, ensuring new and updated content is optimized for search at the point of creation.</strong></p></li>\n<li><p><strong>Provide SEO and keyword input to paid and earned media planning to ensure messaging and campaigns are optimized for reach and relevance.</strong></p></li>\n<li><p><strong>Ensure social media and community-facing content is optimized for searchability and discoverability across digital engagement channels.</strong></p></li>\n<li><p><strong>Provide keyword and search-trend guidance to social media content planning, informing editorial calendars and content themes to maximize organic reach.</strong></p></li>\n<li><p><strong>Deliver staff training and workshops on SEO best practices to build organizational SEO literacy.</strong></p></li>\n<li><p><strong>Provide regular SEO reporting and present findings/recommendations to Government stakeholders.</strong></p></li>\n<li><p><strong>Other relevant duties as qualified/trained to perform</strong></p></li>\n</ul><h3><strong>Qualifications:</strong></h3><ul>\n<li><p><strong>This position requires an active Secret Clearance.</strong></p></li>\n<li><p><strong>BA/BS in Marketing, Digital Communications, Data Analytics, or a related field.</strong></p></li>\n<li><p><strong>Minimum 10 years of hands-on SEO experience, including technical SEO, on-page optimization, and content-driven SEO strategy for large, high-traffic websites.</strong></p></li>\n<li><p><strong>Demonstrated experience with SEO/analytics tooling (e.g., Google Search Console, Google Analytics, SEMrush, Ahrefs, Screaming Frog, or equivalent).</strong></p></li>\n<li><p><strong>Proven experience setting and tracking SEO KPIs and delivering data-driven performance reporting to non-technical stakeholders.</strong></p></li>\n<li><p><strong>Working knowledge of schema markup/structured data, site speed optimization, and technical SEO diagnostics.</strong></p></li>\n<li><p><strong>Experience developing keyword strategy grounded in user intent and long-tail search research.</strong></p></li>\n</ul><h3><strong>Nice to Have Skills and Experience:</strong></h3><ul>\n<li><p><strong>Experience supporting SEO for a DoD, federal, or other large government-facing digital presence.</strong></p></li>\n<li><p><strong>Experience with voice-search optimization and FAQ/structured content strategy.</strong></p></li>\n<li><p><strong>Relevant certifications (e.g., Google Analytics, HubSpot SEO, SEMrush certifications).</strong></p></li>\n<li><p><strong>Experience mentoring junior SEO or content staff.</strong></p></li>\n</ul><h3><strong>How We Support Our Team:</strong></h3><ul>\n<li><h3><strong>Flex hours</strong></h3></li>\n<li><h3><strong>401K with matching incentive</strong></h3></li>\n<li><h3><strong>Parental Leave</strong></h3></li>\n<li><h3><strong>Medical/dental/vision benefits</strong></h3></li>\n<li><h3><strong>Flex Spending Account</strong></h3></li>\n<li><p><strong>Company provided short-term disability and life insurance</strong></p></li>\n<li><h3><strong>Commuter benefits</strong></h3></li>\n<li><h3><strong>Paid Time Off (PTO)</strong></h3></li>\n<li><h3><strong>11 Paid holidays</strong></h3></li>\n</ul><p><strong>Our company is committed to providing equal employment opportunities for all individuals and complies with all applicable federal, state, and local anti-discrimination laws. Employment decisions are based on merit, qualifications, and business needs.</strong></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789911945,
+            "expiryDate": 1795095944,
+            "applicationLink": "https://himalayas.app/companies/bixal/jobs/sr-seo-specialist-3122299654",
+            "guid": "https://himalayas.app/companies/bixal/jobs/sr-seo-specialist-3122299654"
+        },
+        {
+            "title": "Senior Director, Dosimetry and Radiobiology Physicist",
+            "excerpt": "Life at BMSAt RayzeBio, every day is an opportunity to ignite meaningful change.",
+            "companyName": "Bristol Myers Squibb",
+            "companySlug": "bristol-myers-squibb",
+            "companyLogo": "https://cdn-images.himalayas.app/v4gychy0mz4njehiw75bsjl7kx9m",
+            "employmentType": "Full Time",
+            "minSalary": 241768,
+            "maxSalary": 316404,
+            "salaryPeriod": "annual",
+            "seniority": [
+                "Director"
+            ],
+            "currency": "USD",
+            "locationRestrictions": [
+                "United States"
+            ],
+            "timezoneRestrictions": [
+                -10,
+                -9,
+                -8,
+                -7,
+                -6,
+                -5,
+                14
+            ],
+            "categories": [
+                "Medical-Physics",
+                "Radiopharmaceutical-Dosimetry",
+                "Radiobiology",
+                "Nuclear-Medicine-Physics",
+                "Radiation-Oncology-Physics",
+                "Senior-Research-Physicist",
+                "Radiation-Oncology-Dosimetrist",
+                "Radiation-Therapy-Dosimetrist",
+                "Dosimetrist",
+                "Medical-Dosimetrist",
+                "Senior-Experimental-Physicist",
+                "Medical-Physicist",
+                "Dosimetry"
+            ],
+            "parentCategories": [],
+            "description": "<h3>Life at BMS</h3><p>At RayzeBio, every day is an opportunity to ignite meaningful change. As a wholly-owned subsidiary of <a href=\"https://himalayas.app/companies/bristol-myers-squibb\">Bristol Myers Squibb</a>, RayzeBio blends the nimble, pioneering spirit of an emergent biotech with the global expertise and resources of a leading innovator in oncology. Our mission is to develop transformative radiopharmaceutical therapies that offer new hope for patients living with cancer. Here, you’ll join a multidisciplinary team where your ideas are valued, your expertise is amplified, and collaboration is at the heart of everything we do. From day one, expect to make an immediate impact—on our science, on our teams, and most importantly, on patients. Learn more about RayzeBio: </p><br><p>The Sr. Director, Radiopharmaceutical Dosimetry &amp; Radiobiology will be responsible for applying their deep expertise in radiopharmaceutical therapy (RPT) dosimetry, Monte Carlo-based dose calculation, and radiobiology to drive innovation and ensure the highest standards in both preclinical and clinical programs. The Sr. Director will join the Nuclear Oncology Physics and Radiation Biophysics team in leading and coordinating internal dosimetry activities across multidisciplinary teams, overseeing translational dosimetry analysis from discovery through clinical development, connecting absorbed dose to biological response, and managing collaborations with internal stakeholders, external vendors, academic partners, and scientific consortia. The ideal candidate will execute conventional RPT dosimetry approaches with ease, pioneer patient-level and multi-scale dose calculation methods, contribute to protocol, standards, and strategy development, and provide technical leadership, mentorship, and training, all while championing quality practices and regulatory compliance in the adoption of novel radioisotopes and modeling approaches, including for alpha-emitting radiotherapeutics.</p><h3>Job Responsibilities</h3><p>Essential duties and responsibilities include the following. Other duties may be assigned.</p><ul>\n<li>Lead and coordinate all aspects of internal dosimetry, absorbed dose calculation, and dose–response analysis in the discovery and development of radiopharmaceutical imaging and/or therapeutic agents.</li>\n<li>Initiate, design, and execute dosimetry strategies for preclinical and clinical studies, including dosimetry protocol and workflow development, imaging-to-dose analysis plans, uncertainty evaluation, and clinical trial reporting.</li>\n<li>Direct advanced, patient-level dosimetry methods derived from quantitative imaging modalities (e.g., PET, SPECT, CT), including voxel-level and Monte Carlo-based dose calculation, time-activity integration, pharmacokinetic and compartmental modeling, and translation of dosimetry from animal to human.</li>\n<li>Establish and champion multi-scale dosimetry approaches (organ, voxel, cellular, and sub-cellular) to characterize dose heterogeneity and biological effect, with particular emphasis on alpha-emitting radiotherapeutics.</li>\n<li>Integrate dosimetry with radiation biology by partnering with biology and translational teams to link absorbed dose to biological response, informing dose selection, combination strategies, and therapeutic window optimization.</li>\n<li>Oversee and optimize dosimetry data quality control, including standardization, calibration, validation against physical measurement, and quality assurance aligned with current industry guidelines, technical standards, and literature.</li>\n<li>Innovate and implement new dose calculation platforms and modeling approaches to enhance therapeutic efficacy and radiopharmaceutical development, including for novel radioisotopes (e.g., alpha-emitters).</li>\n<li>Evaluate, manage, and support relationships with dosimetry software vendors, CROs, external investigators, academic collaborators, and government agencies, leveraging experience in dosimetry software development and clinical translation.</li>\n<li>Represent the company in professional societies, standards bodies, and consortia shaping dosimetry guidelines and best practices for radiopharmaceutical therapy.</li>\n<li>Provide expert technical support, training, and mentorship to cross-functional teams, building internal dosimetry and radiation science capability across the organization.</li>\n<li>Contribute to regulatory activities, including dosimetry sections of regulatory submissions, and to the advancement of medical physics knowledge in radiopharmaceuticals.</li>\n<li>Communicate complex dosimetry, radiation transport, and radiobiology topics clearly and concisely to internal and external scientific stakeholders.</li>\n<li>Organize, prioritize, and deliver on corporate timelines in a dynamic, multidisciplinary team environment with minimal supervision.</li>\n<li>Maintain professional ethics, integrity, leadership, and confidentiality, and stay current with global dosimetry guidelines and advances in radiopharmaceutical science.</li>\n<li>Leverage AI to drive program, portfolio, or functional performance through prioritization and scaled adoption</li>\n</ul><h3>Basic Qualifications:</h3><ul>\n<li>Advanced degree in Medical Physics, Nuclear Engineering, or related discipline, with didactic training in radiation transport and internal dosimetry.</li>\n<li>Minimum of 10 years of experience leading radiopharmaceutical dosimetry programs across academic, clinical, and/or industry settings, including cross-functional and matrixed collaboration.</li>\n<li>Minimum of 5 years of experience in dosimetry for radiopharmaceutical therapeutics in oncology, spanning preclinical and clinical applications; experience with alpha-emitters strongly desired.</li>\n</ul><h3>Preferred Qualifications:</h3><ul>\n<li>PhD in Medical Physics, Nuclear Engineering, or related field.</li>\n<li>Recognized professional standing in the radiopharmaceutical therapy dosimetry community (e.g., fellowship in a professional society, leadership of task groups, working groups, or technical standards committees).</li>\n</ul><h3>Skills and Qualification:</h3><ul>\n<li>Subject Matter Expert with extensive experience in radiopharmaceutical therapy dosimetry for oncology, including theranostic pairs and alpha-, beta-, and Auger-emitter technologies, able to lead all aspects of internal dosimetry analysis, from quantitative image-based inputs (e.g., PET, SPECT, autoradiography) through voxel-level dose calculation, reporting, and interpretation.</li>\n<li>Demonstrated ability to design, execute, and analyze dosimetry studies preclinically and clinically, including validation of image-based dosimetry workflows against physical measurement (e.g., phantoms, TLD, digital autoradiography) and ensuring data quality control and standardization aligned with current literature and global guidelines.</li>\n<li>Deep expertise in Monte Carlo radiation transport and patient-specific dose calculation, including development and validation of dosimetry platforms, heterogeneous GPU/CPU computing, and multi-scale (organ-to-nanoscale) dosimetry of alpha, beta, and Auger emitters.</li>\n<li>Working knowledge of radiation biology and dose-response relationships in radiopharmaceutical therapy, including radiobiological modeling and the interplay of absorbed dose with biological and combination-therapy effects.</li>\n<li>Technical proficiency with dosimetry and image-processing software, coding, simulation, modeling, and statistical tools such as OLINDA, MIRDcalc, MIM, Torch/RAPID, GATE, Geant4, MCNP, SIMIND, 3D Slicer, ITK-SNAP, Elastix, Python, C/C++, Matlab, or R, including deformable registration and segmentation pipelines.</li>\n<li>Proven track record in managing projects involving coordinating cross-functional teams and aligning stakeholders, with a commitment to deliver on accelerated timelines in a multidisciplinary and dynamic environment; demonstrated success mentoring and developing high-performing technical staff.</li>\n<li>Ability to organize, prioritize, and work effectively with minimal supervision while adapting to a constantly changing environment; recognized leadership skills, professional ethics, integrity, and ability to maintain confidential information.</li>\n<li>Strong communication skills with the ability to present and discuss complex dosimetry and radiation science topics clearly and concisely to global scientific audiences, regulatory bodies, vendors, and internal stakeholders.</li>\n<li>Willingness to travel (up to 30%), including participation in conferences, industry events, and evening/weekend engagements as required.</li>\n</ul><h3>Physical Demands</h3><p>While performing the duties of this job, the employee is regularly required to sit, reach with hands and arms, and talk or hear. The employee must occasionally lift and/or move up to 15 pounds. Specific vision abilities required by this job include close vision and distance vision.</p><p>This is a position that may require working in a laboratory environment; protective clothing, gloves, and safety glasses are required while working in a laboratory environment with radioactive materials.</p><h3>Work Environment</h3><p>The noise level in the work environment is usually moderate.</p><br><p>We hire for skills and capabilities, not just credentials – if this role excites you, but doesn’t perfectly match your resume, we encourage you to apply anyway.</p><div><div><div><div><div><div><div><div><div><div><div><div><div><div><h3><b><b>Compensation Overview:</b></b></h3></div></div></div></div></div></div></div></div></div></div></div></div></div></div>Remote - United States - US: $241,768 - $292,966<p></p><h3>San Diego - CA - US: $261,110 - $316,404</h3><p></p><p>The starting pay range(s) listed above is for full-time employees (FTE). You may also be eligible for additional discretionary incentive cash and stock opportunities. We determine starting pay thoughtfully – carefully considering the nature of the role, required skills, work location, schedule and the knowledge and experience you bring. Final compensation is guided by pay equity principles and applicable employment laws. Compensation programs are reviewed on an ongoing basis and may be adjusted over time to reflect evolving market factors, and individual, team or Company performance.</p><br><h3>Benefits:</h3><br><p>Subject to the terms and conditions of the applicable plans then in effect, you may be eligible to participate in our comprehensive benefit plans – including wellbeing support, retirement and financial protection benefits, and insurance offerings (medical, dental, vision, life and disability).</p><br><p>U.S.-based exempt employees are eligible for Flexible Time Off (FTO), which provides paid time off without a set accrual limit, subject to manager approval, along with 11 paid company holidays each year.</p><br><p>Non-exempt employees, RayzeBio employees, and employees located in Puerto Rico receive 160 hours of paid vacation annually for new hires (subject to manager approval), 11 paid company holidays, and 3 optional holidays.</p><br><p>Depending on eligibility, employees may also have access to additional time-off benefits, including paid sick leave, up to two paid volunteer days per year, summer hours flexibility, and leaves of absence for medical, personal, parental, caregiver, bereavement, or military needs. Eligible employees also enjoy an annual Global Shutdown between Christmas Day and New Year's Day.</p><br><p>U.S.-based job seekers can explore full benefit offerings at</p><br><h3>RayzeBio and <a href=\"https://himalayas.app/companies/bristol-myers-squibb\">Bristol Myers Squibb</a>\n</h3><p>RayzeBio was acquired by <a href=\"https://himalayas.app/companies/bristol-myers-squibb\">Bristol Myers Squibb</a> (BMS) in 2024 and is a wholly-owned subsidiary of BMS; however, RayzeBio will continue to operate as a standalone organization.</p><br><h3>Supporting People with Disabilities</h3><p>BMS and RayzeBio are dedicated to ensuring that people with disabilities can excel through a transparent recruitment process, reasonable workplace accommodations/adjustments and ongoing support in their roles. Applicants can request a reasonable workplace accommodation/adjustment prior to accepting a job offer. If you require reasonable accommodations/adjustments in completing this application, or in any part of the recruitment process, direct your inquiries to . Visit  to access our complete Equal Employment Opportunity statement.</p><br><h3>Candidate Rights</h3><p>BMS and RayzeBio will consider qualified applicants with arrest and conviction records, pursuant to applicable laws in your area.</p><br><p>For roles based in Los Angeles County only: If you live in or expect to work from Los Angeles County if hired for this position, please visit this page for important additional information: </p><br><h3>Data Protection</h3><p>We will never request payments, financial information, or social security numbers during our application or recruitment process. Learn more about protecting yourself at </p><br><p>Any data processed in connection with role applications will be treated in accordance with applicable data privacy policies and regulations.</p><br><p>If this posting is missing required information required by local law or incorrect, contact BMS at  with the Job Title and Requisition number. Do not send application-related inquiries to this email. To check your application status, please login to your Candidate Home Account.</p><br><br>R1606303 : Senior Director, Dosimetry and Radiobiology Physicist<p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+            "pubDate": 1789911944,
+            "expiryDate": 1795095943,
+            "applicationLink": "https://himalayas.app/companies/bristol-myers-squibb/jobs/senior-director-dosimetry-and-radiobiology-physicist",
+            "guid": "https://himalayas.app/companies/bristol-myers-squibb/jobs/senior-director-dosimetry-and-radiobiology-physicist"
+        }
+    ]
+}
